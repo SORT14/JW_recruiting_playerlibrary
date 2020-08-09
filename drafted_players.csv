@@ -1,0 +1,1103 @@
+TEAM,PLAYER,POSITION,SCHOOL,Rating,Year.Selection,Overall sel,Pos.conv,Rated,last,first,fuzzy_key
+Arizona Cardinals,Kyler Murray,QB,Oklahoma,0.9855,2019_1,1,QB,Yes,Murray,Kyler,murlerraykyl
+San Francisco 49ers,Nick Bosa,DE,Ohio State,0.9965,2019_2,2,DL,Yes,Bosa,Nick,bosickosanic
+New York Jets,Quinnen Williams,DT,Alabama,0.9321,2019_3,3,DL,Yes,Williams,Quinnen,wilnenamsqui
+Oakland Raiders,Clelin Ferrell,DE,Clemson,0.9468,2019_4,4,DL,Yes,Ferrell,Clelin,ferlinellcle
+Tampa Bay Buccaneers,Devin White,LB,LSU,0.9393,2019_5,5,LB,Yes,White,Devin,whivinitedev
+New York Giants,Daniel Jones,QB,Duke,,2019_6,6,QB,No,Jones,Daniel,jonielnesdan
+Jacksonville Jaguars,Josh Allen,LB,Kentucky,0.8721,2019_7,7,LB,Yes,Allen,Josh,alloshlenjos
+Detroit Lions,T.J. Hockenson,TE,Iowa,,2019_8,8,TE,No,Hockenson,T.J.,hoc.j.sont.j
+Buffalo Bills,Ed Oliver,DT,Houston,0.9969,2019_9,9,DL,Yes,Oliver,Ed,oliedvered
+Pittsburgh Steelers,Devin Bush,LB,Michigan,0.9063,2019_10,10,LB,Yes,Bush,Devin,busvinushdev
+Cincinnati Bengals,Jonah Williams,T,Alabama,0.9877,2019_11,11,OL,Yes,Williams,Jonah,wilnahamsjon
+Green Bay Packers,Rashan Gary,LB,Michigan,1,2019_12,12,LB,Yes,Gary,Rashan,garhanaryras
+Miami Dolphins,Christian Wilkins,DT,Clemson,0.9893,2019_13,13,DL,Yes,Wilkins,Christian,wilianinschr
+Atlanta Falcons,Chris Lindstrom,OL,Boston College,,2019_14,14,OL,No,Lindstrom,Chris,linrisromchr
+Washington Redskins,Dwayne Haskins,QB,Ohio State,0.9561,2019_15,15,QB,Yes,Haskins,Dwayne,hasyneinsdwa
+Carolina Panthers,Brian Burns,DE,Florida State,0.9761,2019_16,16,DL,Yes,Burns,Brian,burianrnsbri
+New York Giants,Dexter Lawrence,DT,Clemson,0.9992,2019_17,17,DL,Yes,Lawrence,Dexter,lawterncedex
+Minnesota Vikings,Garrett Bradbury,C,North Carolina State,,2019_18,18,OL,No,Bradbury,Garrett,braetturygar
+Tennessee Titans,Jeffery Simmons,DT,Mississippi State,0.9876,2019_19,19,DL,Yes,Simmons,Jeffery,simeryonsjef
+Denver Broncos,Noah Fant,TE,Iowa,0.8665,2019_20,20,TE,Yes,Fant,Noah,fanoahantnoa
+Green Bay Packers,Darnell Savage,DB,Maryland,,2019_21,21,DB,No,Savage,Darnell,savellagedar
+Philadelphia Eagles,Andre Dillard,T,Washington State,,2019_22,22,OL,No,Dillard,Andre,dildreardand
+Houston Texans,Tytus Howard,T,Alabama State,,2019_23,23,OL,No,Howard,Tytus,howtusardtyt
+Oakland Raiders,Josh Jacobs,RB,Alabama,0.8725,2019_24,24,RB,Yes,Jacobs,Josh,jacoshobsjos
+Baltimore Ravens,Marquise Brown,WR,Oklahoma,,2019_25,25,WR,No,Brown,Marquise,broiseownmar
+Washington Redskins,Montez Sweat,LB,Mississippi State,,2019_26,26,LB,No,Sweat,Montez,swetezeatmon
+Oakland Raiders,Johnathan Abram,DB,Mississippi State,0.8579,2019_27,27,DB,Yes,Abram,Johnathan,abrhanramjoh
+Los Angeles Chargers,Jerry Tillery,DT,Notre Dame,0.9325,2019_28,28,DL,Yes,Tillery,Jerry,tilrryeryjer
+Seattle Seahawks,L.J. Collier,DE,Texas Christian,,2019_29,29,DL,No,Collier,L.J.,col.j.ierl.j
+New York Giants,Deandre Baker,CB,Georgia,0.8594,2019_30,30,DB,Yes,Baker,Deandre,bakdrekerdea
+Atlanta Falcons,Kaleb McGary,OL,Washington,0.8969,2019_31,31,OL,Yes,McGary,Kaleb,mcglebarykal
+New England Patriots,N'Keal Harry,WR,Arizona State,0.9736,2019_32,32,WR,Yes,Harry,N'Keal,harealrryn'k
+Arizona Cardinals,Byron Murphy,CB,Washington,0.9549,2019_33,33,DB,Yes,Murphy,Byron,murronphybyr
+Indianapolis Colts,Rock Ya-Sin,CB,Temple,,2019_34,34,DB,No,Ya-Sin,Rock,ya-ocksinroc
+Jacksonville Jaguars,Jawaan Taylor,T,Florida,0.8453,2019_35,35,OL,Yes,Taylor,Jawaan,tayaanlorjaw
+San Francisco 49ers,Deebo Samuel,WR,South Carolina,0.8483,2019_36,36,WR,Yes,Samuel,Deebo,sameboueldee
+Carolina Panthers,Greg Little,OL,Mississippi,0.9614,2019_37,37,OL,Yes,Little,Greg,litregtlegre
+Buffalo Bills,Cody Ford,T,Oklahoma,0.8674,2019_38,38,OL,Yes,Ford,Cody,forodyordcod
+Tampa Bay Buccaneers,Sean Murphy-Bunting,CB,Central Michigan,,2019_39,39,DB,No,Murphy-Bunting,Sean,mureaningsea
+Oakland Raiders,Trayvon Mullen,CB,Clemson,0.9679,2019_40,40,DB,Yes,Mullen,Trayvon,mulvonlentra
+Denver Broncos,Dalton Risner,OL,Kansas State,0.8681,2019_41,41,OL,Yes,Risner,Dalton,ristonnerdal
+Denver Broncos,Drew Lock,QB,Missouri,0.9553,2019_42,42,QB,Yes,Lock,Drew,locrewockdre
+Detroit Lions,Jahlani Tavai,LB,Hawaii,,2019_43,43,LB,No,Tavai,Jahlani,tavanivaijah
+Green Bay Packers,Elgton Jenkins,C,Mississippi State,,2019_44,44,OL,No,Jenkins,Elgton,jentoninselg
+New England Patriots,Joejuan Williams,CB,Vanderbilt,0.9196,2019_45,45,DB,Yes,Williams,Joejuan,wiluanamsjoe
+Cleveland Browns,Greedy Williams,CB,LSU,0.9164,2019_46,46,DB,Yes,Williams,Greedy,wiledyamsgre
+Seattle Seahawks,Marquise Blair,DB,Utah,0.8689,2019_47,47,DB,Yes,Blair,Marquise,blaiseairmar
+New Orleans Saints,Erik McCoy,OL,Texas A&M,,2019_48,48,OL,No,McCoy,Erik,mccrikcoyeri
+Indianapolis Colts,Ben Banogu,DE,Texas Christian,,2019_49,49,DL,No,Banogu,Ben,banbenoguben
+Minnesota Vikings,Irv Smith,TE,Alabama,,2019_50,50,TE,No,Smith,Irv,smiirvithirv
+Tennessee Titans,A.J. Brown,WR,Mississippi,0.9803,2019_51,51,WR,Yes,Brown,A.J.,bro.j.owna.j
+Cincinnati Bengals,Drew Sample,TE,Washington,,2019_52,52,TE,No,Sample,Drew,samrewpledre
+Philadelphia Eagles,Miles Sanders,RB,Penn State,0.9865,2019_53,53,RB,Yes,Sanders,Miles,sanlesersmil
+Houston Texans,Lonnie Johnson,CB,Kentucky,0.8762,2019_54,54,DB,Yes,Johnson,Lonnie,johniesonlon
+Houston Texans,Max Scharping,OL,Northern Illinois,,2019_55,55,OL,No,Scharping,Max,schmaxingmax
+Kansas City Chiefs,Mecole Hardman,WR,Georgia,0.991,2019_56,56,WR,Yes,Hardman,Mecole,harolemanmec
+Philadelphia Eagles,J.J. Arcega-Whiteside,WR,Stanford,,2019_57,57,WR,No,Arcega-Whiteside,J.J.,arc.j.idej.j
+Dallas Cowboys,Trysten Hill,DL,Central Florida,,2019_58,58,DL,No,Hill,Trysten,hiltenilltry
+Indianapolis Colts,Parris Campbell,WR,Ohio State,0.9389,2019_59,59,WR,Yes,Campbell,Parris,camrisellpar
+Los Angeles Chargers,Nasir Adderley,DB,Delaware,,2019_60,60,DB,No,Adderley,Nasir,addsirleynas
+Los Angeles Rams,Taylor Rapp,SAF,Washington,0.8722,2019_61,61,DB,Yes,Rapp,Taylor,raplorapptay
+Arizona Cardinals,Andy Isabella,WR,Massachusetts,,2019_62,62,WR,No,Isabella,Andy,isandyllaand
+Kansas City Chiefs,Juan Thornhill,DB,Virginia,0.8587,2019_63,63,DB,Yes,Thornhill,Juan,thouanilljua
+Seattle Seahawks,D.K. Metcalf,WR,Mississippi,0.9485,2019_64,64,WR,Yes,Metcalf,D.K.,met.k.alfd.k
+Arizona Cardinals,Zach Allen,DE,Boston College,0.8527,2019_65,65,DL,Yes,Allen,Zach,allachlenzac
+Pittsburgh Steelers,Diontae Johnson,WR,Toledo,,2019_66,66,WR,No,Johnson,Diontae,johtaesondio
+San Francisco 49ers,Jalen Hurd,WR,Baylor,0.9805,2019_67,67,WR,Yes,Hurd,Jalen,hurlenurdjal
+New York Jets,Jachai Polite,DE,Florida,0.8538,2019_68,68,DL,Yes,Polite,Jachai,polhaiitejac
+Jacksonville Jaguars,Josh Oliver,TE,San Jose State,,2019_69,69,TE,No,Oliver,Josh,olioshverjos
+Los Angeles Rams,Darrell Henderson,RB,Memphis,,2019_70,70,RB,No,Henderson,Darrell,henellsondar
+Denver Broncos,Dre'Mont Jones,DT,Ohio State,0.941,2019_71,71,DL,Yes,Jones,Dre'Mont,jonontnesdre
+Cincinnati Bengals,Germaine Pratt,LB,North Carolina State,0.8809,2019_72,72,LB,Yes,Pratt,Germaine,praineattger
+Chicago Bears,David Montgomery,RB,Iowa State,,2019_73,73,RB,No,Montgomery,David,monviderydav
+Buffalo Bills,Devin Singletary,RB,Florida Atlantic,,2019_74,74,RB,No,Singletary,Devin,sinvinarydev
+Green Bay Packers,Jace Sternberger,TE,Texas A&M,,2019_75,75,TE,No,Sternberger,Jace,steacegerjac
+Washington Redskins,Terry McLaurin,WR,Ohio State,0.9051,2019_76,76,WR,Yes,McLaurin,Terry,mclrryrinter
+New England Patriots,Chase Winovich,DL,Michigan,0.8937,2019_77,77,DL,Yes,Winovich,Chase,winaseichcha
+Miami Dolphins,Michael Deiter,OL,Wisconsin,,2019_78,78,OL,No,Deiter,Michael,deiaeltermic
+Los Angeles Rams,David Long,DB,Michigan,0.8549,2019_79,79,DB,Yes,Long,David,lonvidongdav
+Cleveland Browns,Sione Takitaki,LB,Brigham Young,0.8509,2019_80,80,LB,Yes,Takitaki,Sione,takoneakisio
+Detroit Lions,Will Harris,DB,Boston College,0.9749,2019_81,81,DB,Yes,Harris,Will,harillriswil
+Tennessee Titans,Nate Davis,G,Charlotte,0.851,2019_82,82,OL,Yes,Davis,Nate,davatevisnat
+Pittsburgh Steelers,Justin Layne,CB,Michigan State,0.9252,2019_83,83,DB,Yes,Layne,Justin,laytinynejus
+Kansas City Chiefs,Khalen Saunders,DT,Western Illinois,,2019_84,84,DL,No,Saunders,Khalen,saulenerskha
+Baltimore Ravens,Jaylon Ferguson,LB,Louisiana Tech,,2019_85,85,LB,No,Ferguson,Jaylon,ferlonsonjay
+Houston Texans,Kahale Warring,TE,San Diego State,,2019_86,86,TE,No,Warring,Kahale,waraleingkah
+New England Patriots,Damien Harris,RB,Alabama,0.9866,2019_87,87,RB,Yes,Harris,Damien,harienrisdam
+Seattle Seahawks,Cody Barton,LB,Utah,0.8518,2019_88,88,LB,Yes,Barton,Cody,barodytoncod
+Indianapolis Colts,Bobby Okereke,ILB,Stanford,0.9268,2019_89,89,LB,Yes,Okereke,Bobby,okebbyekebob
+Dallas Cowboys,Connor McGovern,G,Penn State,0.908,2019_90,90,OL,Yes,McGovern,Connor,mcgnorerncon
+Los Angeles Chargers,Trey Pipkins,T,Sioux Falls,,2019_91,91,OL,No,Pipkins,Trey,pipreyinstre
+New York Jets,Chuma Edoga,T,USC,0.988,2019_92,92,OL,Yes,Edoga,Chuma,edoumaogachu
+Baltimore Ravens,Miles Boykin,WR,Notre Dame,0.9177,2019_93,93,WR,Yes,Boykin,Miles,boyleskinmil
+Tampa Bay Buccaneers,Jamel Dean,DB,Auburn,0.8927,2019_94,94,DB,Yes,Dean,Jamel,deameleanjam
+New York Giants,Oshane Ximines,DE,Old Dominion,,2019_95,95,DL,No,Ximines,Oshane,ximanenesosh
+Buffalo Bills,Dawson Knox,TE,Mississippi,,2019_96,96,TE,No,Knox,Dawson,knosonnoxdaw
+Los Angeles Rams,Bobby Evans,T,Oklahoma,0.926,2019_97,97,OL,Yes,Evans,Bobby,evabbyansbob
+Jacksonville Jaguars,Quincy Williams,LB,Murray State,,2019_98,98,LB,No,Williams,Quincy,wilncyamsqui
+Tampa Bay Buccaneers,Mike Edwards,SAF,Kentucky,0.8873,2019_99,99,DB,Yes,Edwards,Mike,edwikerdsmik
+Carolina Panthers,Will Grier,QB,West Virginia,0.9765,2019_100,100,QB,Yes,Grier,Will,griillierwil
+New England Patriots,Yodny Cajuste,T,West Virginia,0.8448,2019_101,101,OL,Yes,Cajuste,Yodny,cajdnysteyod
+Minnesota Vikings,Alexander Mattison,RB,Boise State,0.8583,2019_102,102,RB,Yes,Mattison,Alexander,matdersonale
+Arizona Cardinals,Hakeem Butler,WR,Iowa State,,2019_103,103,WR,No,Butler,Hakeem,buteemlerhak
+Cincinnati Bengals,Ryan Finley,QB,North Carolina State,0.86,2019_104,104,QB,Yes,Finley,Ryan,finyanleyrya
+New Orleans Saints,Chauncey Gardner-Johnson,SAF,Florida,0.9774,2019_105,105,DB,Yes,Gardner-Johnson,Chauncey,garceysoncha
+Oakland Raiders,Maxx Crosby,DE,Eastern Michigan,,2019_106,106,DL,No,Crosby,Maxx,croaxxsbymax
+Tampa Bay Buccaneers,Anthony Nelson,LB,Iowa,,2019_107,107,LB,No,Nelson,Anthony,nelonysonant
+New York Giants,Julian Love,CB,Notre Dame,0.8711,2019_108,108,DB,Yes,Love,Julian,lovianovejul
+Indianapolis Colts,Khari Willis,SAF,Michigan State,0.8522,2019_109,109,DB,Yes,Willis,Khari,wilariliskha
+San Francisco 49ers,Mitch Wishnowsky,P,Utah,,2019_110,110,P,No,Wishnowsky,Mitch,wistchskymit
+Atlanta Falcons,Kendall Sheffield,DB,Ohio State,0.9901,2019_111,111,DB,Yes,Sheffield,Kendall,shealleldken
+Washington Redskins,Bryce Love,RB,Stanford,0.9112,2019_112,112,RB,Yes,Love,Bryce,lovyceovebry
+Baltimore Ravens,Justice Hill,RB,Oklahoma State,0.8443,2019_113,113,RB,Yes,Hill,Justice,hiliceilljus
+Minnesota Vikings,Dru Samia,G,Oklahoma,0.8986,2019_114,114,OL,Yes,Samia,Dru,samdrumiadru
+Carolina Panthers,Christian Miller,LB,Alabama,0.9804,2019_115,115,LB,Yes,Miller,Christian,milianlerchr
+Tennessee Titans,Amani Hooker,SAF,Iowa,0.8645,2019_116,116,DB,Yes,Hooker,Amani,hooanikerama
+Detroit Lions,Austin Bryant,DE,Clemson,0.919,2019_117,117,DL,Yes,Bryant,Austin,brytinantaus
+New England Patriots,Hjalte Froholdt,G,Arkansas,0.9356,2019_118,118,OL,Yes,Froholdt,Hjalte,frolteldthja
+Cleveland Browns,Sheldrick Redwine,DB,Miami (Fla.),0.8563,2019_119,119,DB,Yes,Redwine,Sheldrick,redickineshe
+Seattle Seahawks,Gary Jennings,WR,West Virginia,,2019_120,120,WR,No,Jennings,Gary,jenaryngsgar
+New York Jets,Trevon Wesco,TE,West Virginia,,2019_121,121,TE,No,Wesco,Trevon,wesvonscotre
+Pittsburgh Steelers,Benny Snell,RB,Kentucky,0.8482,2019_122,122,RB,Yes,Snell,Benny,snennyellben
+Baltimore Ravens,Ben Powers,G,Oklahoma,,2019_123,123,OL,No,Powers,Ben,powbenersben
+Seattle Seahawks,Phil Haynes,G,Wake Forest,,2019_124,124,OL,No,Haynes,Phil,hayhilnesphi
+Cincinnati Bengals,Renell Wren,DT,Arizona State,0.8779,2019_125,125,DL,Yes,Wren,Renell,wreellrenren
+Chicago Bears,Riley Ridley,WR,Georgia,0.9089,2019_126,126,WR,Yes,Ridley,Riley,ridleyleyril
+Baltimore Ravens,Iman Marshall,CB,USC,0.9986,2019_127,127,DB,Yes,Marshall,Iman,marmanallima
+Dallas Cowboys,Tony Pollard,RB,Memphis,,2019_128,128,RB,No,Pollard,Tony,polonyardton
+Oakland Raiders,Isaiah Johnson,CB,Houston,0.8764,2019_129,129,DB,Yes,Johnson,Isaiah,johiahsonisa
+Los Angeles Chargers,Drue Tranquill,LB,Notre Dame,0.8961,2019_130,130,LB,Yes,Tranquill,Drue,trarueilldru
+Washington Redskins,Wes Martin,G,Indiana,,2019_131,131,OL,No,Martin,Wes,marwestinwes
+Seattle Seahawks,Ugo Amadi,CB,Oregon,0.8784,2019_132,132,DB,Yes,Amadi,Ugo,amaugoadiugo
+New England Patriots,Jarrett Stidham,QB,Auburn,0.983,2019_133,133,QB,Yes,Stidham,Jarrett,stietthamjar
+Los Angeles Rams,Greg Gaines,DT,Washington,0.855,2019_134,134,DL,Yes,Gaines,Greg,gairegnesgre
+Atlanta Falcons,John Cominsky,DE,Charleston (WV),,2019_135,135,DL,No,Cominsky,John,comohnskyjoh
+Cincinnati Bengals,Mike Jordan,G,Ohio State,,2019_136,136,OL,No,Jordan,Mike,jorikedanmik
+Oakland Raiders,Foster Moreau,TE,LSU,,2019_137,137,TE,No,Moreau,Foster,mortereaufos
+Philadelphia Eagles,Shareef Miller,DE,Penn State,0.8681,2019_138,138,DL,Yes,Miller,Shareef,mileeflersha
+Cleveland Browns,Baker Mayfield,QB,Oklahoma,,2018_1,1,QB,No,Mayfield,Baker,maykereldbak
+New York Giants,Saquon Barkley,RB,Penn State,0.9459,2018_2,2,RB,Yes,Barkley,Saquon,baruonleysaq
+New York Jets,Sam Darnold,QB,USC,0.9339,2018_3,3,QB,Yes,Darnold,Sam,darsamoldsam
+Cleveland Browns,Denzel Ward,CB,Ohio State,0.8578,2018_4,4,DB,Yes,Ward,Denzel,warzelardden
+Denver Broncos,Bradley Chubb,DE,North Carolina State,0.8538,2018_5,5,DL,Yes,Chubb,Bradley,chuleyubbbra
+Indianapolis Colts,Quenton Nelson,G,Notre Dame,0.9707,2018_6,6,OL,Yes,Nelson,Quenton,neltonsonque
+Buffalo Bills,Josh Allen,QB,Wyoming,0.8721,2018_7,7,QB,Yes,Allen,Josh,alloshlenjos
+Chicago Bears,Roquan Smith,LB,Georgia,0.9769,2018_8,8,LB,Yes,Smith,Roquan,smiuanithroq
+San Francisco 49ers,Mike McGlinchey,T,Notre Dame,0.928,2018_9,9,OL,Yes,McGlinchey,Mike,mcgikeheymik
+Arizona Cardinals,Josh Rosen,QB,UCLA,0.9932,2018_10,10,QB,Yes,Rosen,Josh,rososhsenjos
+Miami Dolphins,Minkah Fitzpatrick,SAF,Alabama,0.9872,2018_11,11,DB,Yes,Fitzpatrick,Minkah,fitkahickmin
+Tampa Bay Buccaneers,Vita Vea,DT,Washington,0.8621,2018_12,12,DL,Yes,Vea,Vita,veaitaveavit
+Washington Redskins,Daron Payne,DT,Alabama,0.9879,2018_13,13,DL,Yes,Payne,Daron,payronynedar
+New Orleans Saints,Marcus Davenport,DE,Texas-San Antonio,,2018_14,14,DL,No,Davenport,Marcus,davcusortmar
+Oakland Raiders,Kolton Miller,T,UCLA,0.8841,2018_15,15,OL,Yes,Miller,Kolton,miltonlerkol
+Buffalo Bills,Tremaine Edmunds,LB,Virginia Tech,0.876,2018_16,16,LB,Yes,Edmunds,Tremaine,edminendstre
+Los Angeles Chargers,Derwin James,SAF,Florida State,0.9982,2018_17,17,DB,Yes,James,Derwin,jamwinmesder
+Green Bay Packers,Jaire Alexander,CB,Louisville,0.8478,2018_18,18,DB,Yes,Alexander,Jaire,aleirederjai
+Dallas Cowboys,Leighton Vander Esch,LB,Boise State,,2018_19,19,LB,No,Vander Esch,Leighton,vantonschlei
+Detroit Lions,Frank Ragnow,C,Arkansas,0.8913,2018_20,20,OL,Yes,Ragnow,Frank,raganknowfra
+Cincinnati Bengals,Billy Price,C,Ohio State,0.9165,2018_21,21,OL,Yes,Price,Billy,prillyicebil
+Tennessee Titans,Rashaan Evans,LB,Alabama,0.9926,2018_22,22,LB,Yes,Evans,Rashaan,evaaanansras
+New England Patriots,Isaiah Wynn,T,Georgia,0.9474,2018_23,23,OL,Yes,Wynn,Isaiah,wyniahynnisa
+Carolina Panthers,D.J. Moore,WR,Maryland,0.826,2018_24,24,WR,Yes,Moore,D.J.,moo.j.ored.j
+Baltimore Ravens,Hayden Hurst,TE,South Carolina,,2018_25,25,TE,No,Hurst,Hayden,hurdenrsthay
+Atlanta Falcons,Calvin Ridley,WR,Alabama,0.9932,2018_26,26,WR,Yes,Ridley,Calvin,ridvinleycal
+Seattle Seahawks,Rashaad Penny,RB,San Diego State,0.8431,2018_27,27,RB,Yes,Penny,Rashaad,penaadnnyras
+Pittsburgh Steelers,Terrell Edmunds,SAF,Virginia Tech,,2018_28,28,DB,No,Edmunds,Terrell,edmellndster
+Jacksonville Jaguars,Taven Bryan,DT,Florida,0.8656,2018_29,29,DL,Yes,Bryan,Taven,bryvenyantav
+Minnesota Vikings,Mike Hughes,CB,Central Florida,0.8777,2018_30,30,DB,Yes,Hughes,Mike,hugikehesmik
+New England Patriots,Sony Michel,RB,Georgia,0.9905,2018_31,31,RB,Yes,Michel,Sony,miconyhelson
+Baltimore Ravens,Lamar Jackson,QB,Louisville,0.8788,2018_32,32,QB,Yes,Jackson,Lamar,jacmarsonlam
+Cleveland Browns,Austin Corbett,G,Nevada,,2018_33,33,OL,No,Corbett,Austin,cortinettaus
+New York Giants,Will Hernandez,G,Texas-El Paso,,2018_34,34,OL,No,Hernandez,Will,herilldezwil
+Cleveland Browns,Nick Chubb,RB,Georgia,0.9846,2018_35,35,RB,Yes,Chubb,Nick,chuickubbnic
+Indianapolis Colts,Darius Leonard,LB,South Carolina State,,2018_36,36,LB,No,Leonard,Darius,leoiusarddar
+Indianapolis Colts,Braden Smith,G,Auburn,0.9699,2018_37,37,OL,Yes,Smith,Braden,smidenithbra
+Tampa Bay Buccaneers,Ronald Jones,RB,USC,,2018_38,38,RB,No,Jones,Ronald,jonaldnesron
+Chicago Bears,James Daniels,C,Iowa,0.8909,2018_39,39,OL,Yes,Daniels,James,danmeselsjam
+Denver Broncos,Courtland Sutton,WR,Southern Methodist,,2018_40,40,WR,No,Sutton,Courtland,sutandtoncou
+Tennessee Titans,Harold Landry,LB,Boston College,0.8772,2018_41,41,LB,Yes,Landry,Harold,lanolddryhar
+Miami Dolphins,Mike Gesicki,TE,Penn State,0.913,2018_42,42,TE,Yes,Gesicki,Mike,gesikeckimik
+Detroit Lions,Kerryon Johnson,RB,Auburn,0.9811,2018_43,43,RB,Yes,Johnson,Kerryon,johyonsonker
+San Francisco 49ers,Dante Pettis,WR,Washington,0.8452,2018_44,44,WR,Yes,Pettis,Dante,petntetisdan
+Green Bay Packers,Josh Jackson,CB,Iowa,0.86,2018_45,45,DB,Yes,Jackson,Josh,jacoshsonjos
+Kansas City Chiefs,Breeland Speaks,LB,Mississippi,0.9194,2018_46,46,LB,Yes,Speaks,Breeland,speandaksbre
+Arizona Cardinals,Christian Kirk,WR,Texas A&M,0.9891,2018_47,47,WR,Yes,Kirk,Christian,kirianirkchr
+Los Angeles Chargers,Uchenna Nwosu,LB,USC,0.8472,2018_48,48,LB,Yes,Nwosu,Uchenna,nwonnaosuuch
+Philadelphia Eagles,Dallas Goedert,TE,South Dakota State,,2018_49,49,TE,No,Goedert,Dallas,goelasertdal
+Dallas Cowboys,Connor Williams,G,Texas,0.8773,2018_50,50,OL,Yes,Williams,Connor,wilnoramscon
+Chicago Bears,Anthony Miller,WR,Memphis,0.8733,2018_51,51,WR,Yes,Miller,Anthony,milonylerant
+Indianapolis Colts,Kemoko Turay,LB,Rutgers,,2018_52,52,LB,No,Turay,Kemoko,turokoraykem
+Tampa Bay Buccaneers,M.J. Stewart,CB,North Carolina,0.8715,2018_53,53,DB,Yes,Stewart,M.J.,ste.j.artm.j
+Cincinnati Bengals,Jessie Bates,SAF,Wake Forest,,2018_54,54,DB,No,Bates,Jessie,batsietesjes
+Carolina Panthers,Donte Jackson,CB,LSU,0.9761,2018_55,55,DB,Yes,Jackson,Donte,jacntesondon
+New England Patriots,Duke Dawson,DB,Florida,0.9225,2018_56,56,DB,Yes,Dawson,Duke,dawukesonduk
+Oakland Raiders,P.J. Hall,NT,Sam Houston State,0.8569,2018_57,57,DL,Yes,Hall,P.J.,hal.j.allp.j
+Atlanta Falcons,Isaiah Oliver,CB,Colorado,,2018_58,58,DB,No,Oliver,Isaiah,oliiahverisa
+Washington Redskins,Derrius Guice,RB,LSU,0.9793,2018_59,59,RB,Yes,Guice,Derrius,guiiusiceder
+Pittsburgh Steelers,James Washington,WR,Oklahoma State,0.8528,2018_60,60,WR,Yes,Washington,James,wasmestonjam
+Jacksonville Jaguars,D.J. Chark,WR,LSU,0.8752,2018_61,61,WR,Yes,Chark,D.J.,cha.j.arkd.j
+Minnesota Vikings,Brian O'Neill,T,Pittsburgh,,2018_62,62,OL,No,O'Neill,Brian,o'nianillbri
+Tampa Bay Buccaneers,Carlton Davis,CB,Auburn,0.8904,2018_63,63,DB,Yes,Davis,Carlton,davtonviscar
+Indianapolis Colts,Tyquan Lewis,DE,Ohio State,0.8978,2018_64,64,DL,Yes,Lewis,Tyquan,lewuanwistyq
+Oakland Raiders,Brandon Parker,T,North Carolina A&T,,2018_65,65,OL,No,Parker,Brandon,pardonkerbra
+New York Giants,Lorenzo Carter,LB,Georgia,0.9913,2018_66,66,LB,Yes,Carter,Lorenzo,carnzoterlor
+Cleveland Browns,Chad Thomas,DE,Miami (Fla.),0.9887,2018_67,67,DL,Yes,Thomas,Chad,thohadmascha
+Houston Texans,Justin Reid,SAF,Stanford,0.8857,2018_68,68,DB,Yes,Reid,Justin,reitineidjus
+New York Giants,B.J. Hill,DT,North Carolina State,,2018_69,69,DL,No,Hill,B.J.,hil.j.illb.j
+San Francisco 49ers,Fred Warner,LB,Brigham Young,0.892,2018_70,70,LB,Yes,Warner,Fred,warrednerfre
+Denver Broncos,Royce Freeman,RB,Oregon,0.9831,2018_71,71,RB,Yes,Freeman,Royce,freycemanroy
+New York Jets,Nathan Shepherd,DT,Fort Hays State,,2018_72,72,DL,No,Shepherd,Nathan,shehanerdnat
+Miami Dolphins,Jerome Baker,LB,Ohio State,0.9697,2018_73,73,LB,Yes,Baker,Jerome,bakomekerjer
+Washington Redskins,Geron Christian,T,Louisville,0.8489,2018_74,74,OL,Yes,Christian,Geron,chrronianger
+Kansas City Chiefs,Derrick Nnadi,DT,Florida State,0.9554,2018_75,75,DL,Yes,Nnadi,Derrick,nnaickadider
+Pittsburgh Steelers,Mason Rudolph,QB,Oklahoma State,0.9004,2018_76,76,QB,Yes,Rudolph,Mason,rudsonlphmas
+Cincinnati Bengals,Sam Hubbard,DE,Ohio State,0.923,2018_77,77,DL,Yes,Hubbard,Sam,hubsamardsam
+Cincinnati Bengals,Malik Jefferson,LB,Texas,0.9934,2018_78,78,LB,Yes,Jefferson,Malik,jefliksonmal
+Seattle Seahawks,Rasheem Green,DE,USC,0.99,2018_79,79,DL,Yes,Green,Rasheem,greeemeenras
+Houston Texans,Martinas Rankin,C,Mississippi State,,2018_80,80,OL,No,Rankin,Martinas,rannaskinmar
+Dallas Cowboys,Michael Gallup,WR,Colorado State,,2018_81,81,WR,No,Gallup,Michael,galaellupmic
+Detroit Lions,Tracy Walker,SAF,Louisiana-Lafayette,,2018_82,82,DB,No,Walker,Tracy,walacykertra
+Baltimore Ravens,Orlando Brown,T,Oklahoma,0.8731,2018_83,83,OL,Yes,Brown,Orlando,brondoownorl
+Los Angeles Chargers,Justin Jones,DT,North Carolina State,0.8653,2018_84,84,DL,Yes,Jones,Justin,jontinnesjus
+Carolina Panthers,Rashaan Gaulden,CB,Tennessee,0.8773,2018_85,85,DB,Yes,Gaulden,Rashaan,gauaandenras
+Baltimore Ravens,Mark Andrews,TE,Oklahoma,0.9407,2018_86,86,TE,Yes,Andrews,Mark,andarkewsmar
+Oakland Raiders,Arden Key,DE,LSU,0.9593,2018_87,87,DL,Yes,Key,Arden,keydenkeyard
+Green Bay Packers,Oren Burks,LB,Vanderbilt,0.86,2018_88,88,LB,Yes,Burks,Oren,burrenrksore
+Los Angeles Rams,Joe Noteboom,T,Texas Christian,,2018_89,89,OL,No,Noteboom,Joe,notjoeoomjoe
+Atlanta Falcons,Deadrin Senat,DT,South Florida,0.8712,2018_90,90,DL,Yes,Senat,Deadrin,senrinnatdea
+New Orleans Saints,Tre'Quan Smith,WR,Central Florida,,2018_91,91,WR,No,Smith,Tre'Quan,smiuanithtre
+Pittsburgh Steelers,Chukwuma Okorafor,T,Western Michigan,0.8547,2018_92,92,OL,Yes,Okorafor,Chukwuma,okoumaforchu
+Jacksonville Jaguars,Ronnie Harrison,SAF,Alabama,0.9175,2018_93,93,DB,Yes,Harrison,Ronnie,harniesonron
+Tampa Bay Buccaneers,Alex Cappa,T,Humboldt State,,2018_94,94,OL,No,Cappa,Alex,caplexppaale
+San Francisco 49ers,Tarvarius Moore,SAF,Southern Mississippi,,2018_95,95,DB,No,Moore,Tarvarius,mooiusoretar
+Buffalo Bills,Harrison Phillips,DT,Stanford,0.8594,2018_96,96,DL,Yes,Phillips,Harrison,phisonipshar
+Arizona Cardinals,Mason Cole,C,Michigan,0.9435,2018_97,97,OL,Yes,Cole,Mason,colsonolemas
+Houston Texans,Jordan Akins,TE,Central Florida,0.859,2018_98,98,TE,Yes,Akins,Jordan,akidaninsjor
+Denver Broncos,Isaac Yiadom,CB,Boston College,,2018_99,99,DB,No,Yiadom,Isaac,yiaaacdomisa
+Kansas City Chiefs,Dorian O'Daniel,LB,Clemson,0.9541,2018_100,100,LB,Yes,O'Daniel,Dorian,o'dianieldor
+Carolina Panthers,Ian Thomas,TE,Indiana,0.8782,2018_101,101,TE,Yes,Thomas,Ian,thoianmasian
+Minnesota Vikings,Jalyn Holmes,DE,Ohio State,0.965,2018_102,102,DL,Yes,Holmes,Jalyn,hollynmesjal
+Houston Texans,Keke Coutee,WR,Texas Tech,0.8671,2018_103,103,WR,Yes,Coutee,Keke,coueketeekek
+Indianapolis Colts,Nyheim Hines,RB,North Carolina State,0.9486,2018_104,104,RB,Yes,Hines,Nyheim,hineimnesnyh
+Cleveland Browns,Antonio Callaway,WR,Florida,0.8902,2018_105,105,WR,Yes,Callaway,Antonio,calniowayant
+Denver Broncos,Josey Jewell,LB,Iowa,,2018_106,106,LB,No,Jewell,Josey,jewseyelljos
+New York Jets,Chris Herndon,TE,Miami (Fla.),0.8549,2018_107,107,TE,Yes,Herndon,Chris,herrisdonchr
+New York Giants,Kyle Lauletta,QB,Richmond,,2018_108,108,QB,No,Lauletta,Kyle,lauylettakyl
+Washington Redskins,Troy Apke,SAF,Penn State,0.8681,2018_109,109,DB,Yes,Apke,Troy,apkroypketro
+Oakland Raiders,Nick Nelson,CB,Wisconsin,,2018_110,110,DB,No,Nelson,Nick,nelicksonnic
+Los Angeles Rams,Brian Allen,C,Michigan State,0.8952,2018_111,111,OL,Yes,Allen,Brian,allianlenbri
+Cincinnati Bengals,Mark Walton,RB,Miami (Fla.),0.9607,2018_112,112,RB,Yes,Walton,Mark,walarktonmar
+Denver Broncos,DaeSean Hamilton,WR,Penn State,0.8737,2018_113,113,WR,Yes,Hamilton,DaeSean,hameantondae
+Detroit Lions,Da'Shawn Hand,DE,Alabama,0.9979,2018_114,114,DL,Yes,Hand,Da'Shawn,hanawnandda'
+Chicago Bears,Joel Iyiegbuniwe,LB,Western Kentucky,,2018_115,115,LB,No,Iyiegbuniwe,Joel,iyioeliwejoe
+Dallas Cowboys,Dorance Armstrong,DE,Kansas,,2018_116,116,DL,No,Armstrong,Dorance,armnceongdor
+Tampa Bay Buccaneers,Jordan Whitehead,SAF,Pittsburgh,0.9518,2018_117,117,DB,Yes,Whitehead,Jordan,whidaneadjor
+Baltimore Ravens,Anthony Averett,CB,Alabama,0.9043,2018_118,118,DB,Yes,Averett,Anthony,aveonyettant
+Los Angeles Chargers,Kyzir White,SAF,West Virginia,,2018_119,119,DB,No,White,Kyzir,whiziritekyz
+Seattle Seahawks,Will Dissly,TE,Washington,,2018_120,120,TE,No,Dissly,Will,disillslywil
+Buffalo Bills,Taron Johnson,CB,Weber State,,2018_121,121,DB,No,Johnson,Taron,johronsontar
+Baltimore Ravens,Kenny Young,LB,UCLA,0.9253,2018_122,122,LB,Yes,Young,Kenny,younnyungken
+Miami Dolphins,Durham Smythe,TE,Notre Dame,0.9056,2018_123,123,TE,Yes,Smythe,Durham,smyhamthedur
+Kansas City Chiefs,Armani Watts,SAF,Texas A&M,0.9201,2018_124,124,DB,Yes,Watts,Armani,watanittsarm
+Philadelphia Eagles,Avonte Maddox,CB,Pittsburgh,,2018_125,125,DB,No,Maddox,Avonte,madntedoxavo
+Atlanta Falcons,Ito Smith,RB,Southern Mississippi,,2018_126,126,RB,No,Smith,Ito,smiitoithito
+New Orleans Saints,Rick Leonard,T,Florida State,0.8878,2018_127,127,OL,Yes,Leonard,Rick,leoickardric
+San Francisco 49ers,Kentavius Street,DE,North Carolina State,0.9517,2018_128,128,DL,Yes,Street,Kentavius,striuseetken
+Jacksonville Jaguars,Will Richardson,T,North Carolina State,0.8756,2018_129,129,OL,Yes,Richardson,Will,ricillsonwil
+Philadelphia Eagles,Josh Sweat,DE,Florida State,0.995,2018_130,130,DL,Yes,Sweat,Josh,sweosheatjos
+Miami Dolphins,Kalen Ballage,RB,Arizona State,0.8904,2018_131,131,RB,Yes,Ballage,Kalen,ballenagekal
+Baltimore Ravens,Jaleel Scott,WR,New Mexico State,,2018_132,132,WR,No,Scott,Jaleel,scoeelottjal
+Green Bay Packers,J'Mon Moore,WR,Missouri,0.8653,2018_133,133,WR,Yes,Moore,J'Mon,moomonorej'm
+Arizona Cardinals,Chase Edmonds,RB,Fordham,,2018_134,134,RB,No,Edmonds,Chase,edmasendscha
+Los Angeles Rams,John Franklin-Myers,DE,Stephen F. Austin St.,,2018_135,135,DL,No,Franklin-Myers,John,fraohnersjoh
+Carolina Panthers,Marquis Haynes,DE,Mississippi,0.8408,2018_136,136,DL,Yes,Haynes,Marquis,hayuisnesmar
+Dallas Cowboys,Dalton Schultz,TE,Stanford,0.953,2018_137,137,TE,Yes,Schultz,Dalton,schtonltzdal
+Cleveland Browns,Myles Garrett,DE,Texas A&M,0.9993,2017_1,1,DL,Yes,Garrett,Myles,garlesettmyl
+Chicago Bears,Mitchell Trubisky,QB,North Carolina,,2017_2,2,QB,No,Trubisky,Mitchell,truellskymit
+San Francisco 49ers,Solomon Thomas,DE,Stanford,0.9885,2017_3,3,DL,Yes,Thomas,Solomon,thomonmassol
+Jacksonville Jaguars,Leonard Fournette,RB,LSU,0.9996,2017_4,4,RB,Yes,Fournette,Leonard,fouardtteleo
+Tennessee Titans,Corey Davis,WR,Western Michigan,,2017_5,5,WR,No,Davis,Corey,davreyviscor
+New York Jets,Jamal Adams,SAF,LSU,0.985,2017_6,6,DB,Yes,Adams,Jamal,adamalamsjam
+Los Angeles Chargers,Mike Williams,WR,Clemson,0.8347,2017_7,7,WR,Yes,Williams,Mike,wilikeamsmik
+Carolina Panthers,Christian McCaffrey,RB,Stanford,0.9593,2017_8,8,RB,Yes,McCaffrey,Christian,mccianreychr
+Cincinnati Bengals,John Ross,WR,Washington,0.9001,2017_9,9,WR,Yes,Ross,John,rosohnossjoh
+Kansas City Chiefs,Patrick Mahomes,QB,Texas Tech,,2017_10,10,QB,No,Mahomes,Patrick,mahickmespat
+New Orleans Saints,Marshon Lattimore,CB,Ohio State,0.9737,2017_11,11,DB,Yes,Lattimore,Marshon,lathonoremar
+Houston Texans,Deshaun Watson,QB,Clemson,0.9794,2017_12,12,QB,Yes,Watson,Deshaun,wataunsondes
+Arizona Cardinals,Haason Reddick,LB,Temple,,2017_13,13,LB,No,Reddick,Haason,redsonickhaa
+Philadelphia Eagles,Derek Barnett,DE,Tennessee,0.9181,2017_14,14,DL,Yes,Barnett,Derek,barrekettder
+Indianapolis Colts,Malik Hooker,SAF,Ohio State,0.8858,2017_15,15,DB,Yes,Hooker,Malik,hoolikkermal
+Baltimore Ravens,Marlon Humphrey,CB,Alabama,0.9942,2017_16,16,DB,Yes,Humphrey,Marlon,humlonreymar
+Washington Redskins,Jonathan Allen,DE,Alabama,0.9924,2017_17,17,DL,Yes,Allen,Jonathan,allhanlenjon
+Tennessee Titans,Adoree' Jackson,CB,USC,0.996,2017_18,18,DB,Yes,Jackson,Adoree',jacee'sonado
+Tampa Bay Buccaneers,O.J. Howard,TE,Alabama,0.9916,2017_19,19,TE,Yes,Howard,O.J.,how.j.ardo.j
+Denver Broncos,Garett Bolles,T,Utah,,2017_20,20,OL,No,Bolles,Garett,bolettlesgar
+Detroit Lions,Jarrad Davis,LB,Florida,0.8681,2017_21,21,LB,Yes,Davis,Jarrad,davradvisjar
+Miami Dolphins,Charles Harris,DE,Missouri,,2017_22,22,DL,No,Harris,Charles,harlesrischa
+New York Giants,Evan Engram,TE,Mississippi,0.8435,2017_23,23,TE,Yes,Engram,Evan,engvanrameva
+Oakland Raiders,Gareon Conley,CB,Ohio State,0.9329,2017_24,24,DB,Yes,Conley,Gareon,coneonleygar
+Cleveland Browns,Jabrill Peppers,SAF,Michigan,0.9992,2017_25,25,DB,Yes,Peppers,Jabrill,pepillersjab
+Atlanta Falcons,Takkarist McKinley,DE,UCLA,0.8669,2017_26,26,DL,Yes,McKinley,Takkarist,mckistleytak
+Buffalo Bills,Tre'Davious White,CB,LSU,0.9763,2017_27,27,DB,Yes,White,Tre'Davious,whiousitetre
+Dallas Cowboys,Taco Charlton,DE,Michigan,0.9386,2017_28,28,DL,Yes,Charlton,Taco,chaacotontac
+Cleveland Browns,David Njoku,TE,Miami (Fla.),0.8478,2017_29,29,TE,Yes,Njoku,David,njovidokudav
+Pittsburgh Steelers,T.J. Watt,LB,Wisconsin,0.8425,2017_30,30,LB,Yes,Watt,T.J.,wat.j.attt.j
+San Francisco 49ers,Reuben Foster,LB,Alabama,0.9961,2017_31,31,LB,Yes,Foster,Reuben,fosbenterreu
+New Orleans Saints,Ryan Ramczyk,T,Wisconsin,,2017_32,32,OL,No,Ramczyk,Ryan,ramyanzykrya
+Green Bay Packers,Kevin King,CB,Washington,0.8628,2017_33,33,DB,Yes,King,Kevin,kinviningkev
+Jacksonville Jaguars,Cam Robinson,T,Alabama,0.998,2017_34,34,OL,Yes,Robinson,Cam,robcamsoncam
+Seattle Seahawks,Malik McDowell,DT,Michigan State,0.9853,2017_35,35,DL,Yes,McDowell,Malik,mcdlikellmal
+Arizona Cardinals,Budda Baker,SAF,Washington,0.9741,2017_36,36,DB,Yes,Baker,Budda,bakddakerbud
+Buffalo Bills,Zay Jones,WR,East Carolina,,2017_37,37,WR,No,Jones,Zay,jonzayneszay
+Los Angeles Chargers,Forrest Lamp,G,Western Kentucky,,2017_38,38,OL,No,Lamp,Forrest,lamestampfor
+New York Jets,Marcus Maye,SAF,Florida,0.9512,2017_39,39,DB,Yes,Maye,Marcus,maycusayemar
+Carolina Panthers,Curtis Samuel,WR,Ohio State,0.9721,2017_40,40,WR,Yes,Samuel,Curtis,samtisuelcur
+Minnesota Vikings,Dalvin Cook,RB,Florida State,0.994,2017_41,41,RB,Yes,Cook,Dalvin,coovinookdal
+New Orleans Saints,Marcus Williams,SAF,Utah,0.8428,2017_42,42,DB,Yes,Williams,Marcus,wilcusamsmar
+Philadelphia Eagles,Sidney Jones,CB,Washington,,2017_43,43,DB,No,Jones,Sidney,jonneynessid
+Los Angeles Rams,Gerald Everett,TE,South Alabama,,2017_44,44,TE,No,Everett,Gerald,evealdettger
+Chicago Bears,Adam Shaheen,TE,Ashland,,2017_45,45,TE,No,Shaheen,Adam,shadameenada
+Indianapolis Colts,Quincy Wilson,CB,Florida,0.8843,2017_46,46,DB,Yes,Wilson,Quincy,wilncysonqui
+Baltimore Ravens,Tyus Bowser,LB,Houston,,2017_47,47,LB,No,Bowser,Tyus,bowyussertyu
+Cincinnati Bengals,Joe Mixon,RB,Oklahoma,0.9907,2017_48,48,RB,Yes,Mixon,Joe,mixjoexonjoe
+Washington Redskins,Ryan Anderson,LB,Alabama,0.9634,2017_49,49,LB,Yes,Anderson,Ryan,andyansonrya
+Tampa Bay Buccaneers,Justin Evans,SAF,Texas A&M,,2017_50,50,DB,No,Evans,Justin,evatinansjus
+Denver Broncos,DeMarcus Walker,DE,Florida State,0.9829,2017_51,51,DL,Yes,Walker,DeMarcus,walcuskerdem
+Cleveland Browns,DeShone Kizer,QB,Notre Dame,0.9073,2017_52,52,QB,Yes,Kizer,DeShone,kizonezerdes
+Detroit Lions,Teez Tabor,CB,Florida,0.9925,2017_53,53,DB,Yes,Tabor,Teez,tabeezbortee
+Miami Dolphins,Raekwon McMillan,LB,Ohio State,0.9896,2017_54,54,LB,Yes,McMillan,Raekwon,mcmwonlanrae
+New York Giants,Dalvin Tomlinson,DT,Alabama,0.9195,2017_55,55,DL,Yes,Tomlinson,Dalvin,tomvinsondal
+Oakland Raiders,Obi Melifonwu,SAF,Connecticut,,2017_56,56,DB,No,Melifonwu,Obi,melobinwuobi
+Houston Texans,Zach Cunningham,LB,Vanderbilt,0.9049,2017_57,57,LB,Yes,Cunningham,Zach,cunachhamzac
+Seattle Seahawks,Ethan Pocic,C,LSU,0.9744,2017_58,58,OL,Yes,Pocic,Ethan,pochanciceth
+Kansas City Chiefs,Tanoh Kpassagnon,DE,Villanova,,2017_59,59,DL,No,Kpassagnon,Tanoh,kpanohnontan
+Dallas Cowboys,Chidobe Awuzie,CB,Colorado,,2017_60,60,DB,No,Awuzie,Chidobe,awuobeziechi
+Green Bay Packers,Josh Jones,SAF,North Carolina State,0.8505,2017_61,61,DB,Yes,Jones,Josh,jonoshnesjos
+Pittsburgh Steelers,JuJu Smith-Schuster,WR,USC,0.9905,2017_62,62,WR,Yes,Smith-Schuster,JuJu,smiujuterjuj
+Buffalo Bills,Dion Dawkins,G,Temple,,2017_63,63,OL,No,Dawkins,Dion,dawioninsdio
+Carolina Panthers,Taylor Moton,G,Western Michigan,,2017_64,64,OL,No,Moton,Taylor,motlortontay
+Cleveland Browns,Larry Ogunjobi,DT,North Carolina-Charlotte,,2017_65,65,DL,No,Ogunjobi,Larry,ogurryobilar
+San Francisco 49ers,Ahkello Witherspoon,CB,Colorado,,2017_66,66,DB,No,Witherspoon,Ahkello,witllooonahk
+New Orleans Saints,Alvin Kamara,RB,Tennessee,0.9797,2017_67,67,RB,Yes,Kamara,Alvin,kamvinaraalv
+Jacksonville Jaguars,Dawuane Smoot,DE,Illinois,,2017_68,68,DL,No,Smoot,Dawuane,smoaneootdaw
+Los Angeles Rams,Cooper Kupp,WR,Eastern Washington,,2017_69,69,WR,No,Kupp,Cooper,kupperuppcoo
+Minnesota Vikings,Pat Elflein,C,Ohio State,0.8419,2017_70,70,OL,Yes,Elflein,Pat,elfpateinpat
+Los Angeles Chargers,Dan Feeney,G,Indiana,0.8443,2017_71,71,OL,Yes,Feeney,Dan,feedanneydan
+Tennessee Titans,Taywan Taylor,WR,Western Kentucky,,2017_72,72,WR,No,Taylor,Taywan,taywanlortay
+Cincinnati Bengals,Jordan Willis,DE,Kansas State,,2017_73,73,DL,No,Willis,Jordan,wildanlisjor
+Baltimore Ravens,Chris Wormley,DE,Michigan,0.9456,2017_74,74,DL,Yes,Wormley,Chris,worrisleychr
+Atlanta Falcons,Duke Riley,LB,LSU,0.8656,2017_75,75,LB,Yes,Riley,Duke,rilukeleyduk
+New Orleans Saints,Alex Anzalone,LB,Florida,0.975,2017_76,76,LB,Yes,Anzalone,Alex,anzlexoneale
+Carolina Panthers,Daeshon Hall,DE,Texas A&M,0.9256,2017_77,77,DL,Yes,Hall,Daeshon,halhonalldae
+Baltimore Ravens,Tim Williams,LB,Alabama,0.7889,2017_78,78,LB,Yes,Williams,Tim,wiltimamstim
+New York Jets,ArDarius Stewart,WR,Alabama,0.9625,2017_79,79,WR,Yes,Stewart,ArDarius,steiusartard
+Indianapolis Colts,Tarell Basham,DE,Ohio U.,,2017_80,80,DL,No,Basham,Tarell,basellhamtar
+Washington Redskins,Fabian Moreau,CB,UCLA,,2017_81,81,DB,No,Moreau,Fabian,morianeaufab
+Denver Broncos,Carlos Henderson,WR,Louisiana Tech,,2017_82,82,WR,No,Henderson,Carlos,henlossoncar
+New England Patriots,Derek Rivers,OLB,Youngstown State,,2017_83,83,LB,No,Rivers,Derek,rivrekersder
+Tampa Bay Buccaneers,Chris Godwin,WR,Penn State,0.9293,2017_84,84,WR,Yes,Godwin,Chris,godriswinchr
+New England Patriots,Antonio Garcia,T,Troy,,2017_85,85,OL,No,Garcia,Antonio,garniociaant
+Kansas City Chiefs,Kareem Hunt,RB,Toledo,,2017_86,86,RB,No,Hunt,Kareem,huneemuntkar
+New York Giants,Davis Webb,QB,California,0.8671,2017_87,87,QB,Yes,Webb,Davis,webvisebbdav
+Oakland Raiders,Eddie Vanderdoes,DT,UCLA,0.996,2017_88,88,DL,Yes,Vanderdoes,Eddie,vandieoesedd
+Houston Texans,D'Onta Foreman,RB,Texas,,2017_89,89,RB,No,Foreman,D'Onta,forntamand'o
+Seattle Seahawks,Shaquill Griffin,CB,Central Florida,,2017_90,90,DB,No,Griffin,Shaquill,griillfinsha
+Los Angeles Rams,John Johnson,SAF,Boston College,0.9345,2017_91,91,DB,Yes,Johnson,John,johohnsonjoh
+Dallas Cowboys,Jourdan Lewis,CB,Michigan,0.9467,2017_92,92,DB,Yes,Lewis,Jourdan,lewdanwisjou
+Green Bay Packers,Montravius Adams,DT,Auburn,0.9947,2017_93,93,DL,Yes,Adams,Montravius,adaiusamsmon
+Pittsburgh Steelers,Cameron Sutton,CB,Tennessee,0.8625,2017_94,94,DB,Yes,Sutton,Cameron,sutrontoncam
+Seattle Seahawks,Delano Hill,SAF,Michigan,0.8953,2017_95,95,DB,Yes,Hill,Delano,hilanoilldel
+Detroit Lions,Kenny Golladay,WR,Northern Illinois,,2017_96,96,WR,No,Golladay,Kenny,golnnydayken
+Miami Dolphins,Cordrea Tankersley,CB,Clemson,0.9051,2017_97,97,DB,Yes,Tankersley,Cordrea,tanrealeycor
+Arizona Cardinals,Chad Williams,WR,Grambling State,,2017_98,98,WR,No,Williams,Chad,wilhadamscha
+Philadelphia Eagles,Rasul Douglas,CB,West Virginia,,2017_99,99,DB,No,Douglas,Rasul,dousullasras
+Tennessee Titans,Jonnu Smith,TE,Florida International,,2017_100,100,TE,No,Smith,Jonnu,sminnuithjon
+Denver Broncos,Brendan Langley,CB,Lamar,0.9225,2017_101,101,DB,Yes,Langley,Brendan,landanleybre
+Seattle Seahawks,Nazair Jones,DT,North Carolina,0.8746,2017_102,102,DL,Yes,Jones,Nazair,jonairnesnaz
+New Orleans Saints,Trey Hendrickson,DE,Florida Atlantic,,2017_103,103,DL,No,Hendrickson,Trey,henreysontre
+San Francisco 49ers,C.J. Beathard,QB,Iowa,,2017_104,104,QB,No,Beathard,C.J.,bea.j.ardc.j
+Pittsburgh Steelers,James Conner,RB,Pittsburgh,,2017_105,105,RB,No,Conner,James,conmesnerjam
+Seattle Seahawks,Amara Darboh,WR,Michigan,0.9188,2017_106,106,WR,Yes,Darboh,Amara,dararabohama
+Tampa Bay Buccaneers,Kendell Beckwith,LB,LSU,0.9671,2017_107,107,LB,Yes,Beckwith,Kendell,becellithken
+Green Bay Packers,Vince Biegel,LB,Wisconsin,0.9388,2017_108,108,LB,Yes,Biegel,Vince,biencegelvin
+Minnesota Vikings,Jaleel Johnson,DT,Iowa,0.9212,2017_109,109,DL,Yes,Johnson,Jaleel,joheelsonjal
+Jacksonville Jaguars,Dede Westbrook,WR,Oklahoma,,2017_110,110,WR,No,Westbrook,Dede,wesedeookded
+Seattle Seahawks,Tedric Thompson,SAF,Colorado,0.8457,2017_111,111,DB,Yes,Thompson,Tedric,thoricsonted
+Chicago Bears,Eddie Jackson,SAF,Alabama,0.8857,2017_112,112,DB,Yes,Jackson,Eddie,jacdiesonedd
+Los Angeles Chargers,Rayshawn Jenkins,SAF,Miami (Fla.),0.8524,2017_113,113,DB,Yes,Jenkins,Rayshawn,jenawninsray
+Washington Redskins,Samaje Perine,RB,Oklahoma,0.907,2017_114,114,RB,Yes,Perine,Samaje,perajeinesam
+Arizona Cardinals,Dorian Johnson,G,Pittsburgh,0.9777,2017_115,115,OL,Yes,Johnson,Dorian,johiansondor
+Cincinnati Bengals,Carl Lawson,DE,Auburn,0.9897,2017_116,116,DL,Yes,Lawson,Carl,lawarlsoncar
+Los Angeles Rams,Josh Reynolds,WR,Texas A&M,,2017_117,117,WR,No,Reynolds,Josh,reyoshldsjos
+Philadelphia Eagles,Mack Hollins,WR,North Carolina,,2017_118,118,WR,No,Hollins,Mack,holackinsmac
+Chicago Bears,Tarik Cohen,RB,North Carolina A&T,,2017_119,119,RB,No,Cohen,Tarik,cohrikhentar
+Minnesota Vikings,Ben Gedeon,LB,Michigan,0.9149,2017_120,120,LB,Yes,Gedeon,Ben,gedbeneonben
+San Francisco 49ers,Joe Williams,RB,Utah,,2017_121,121,RB,No,Williams,Joe,wiljoeamsjoe
+Baltimore Ravens,Nico Siragusa,G,San Diego State,0.8428,2017_122,122,OL,Yes,Siragusa,Nico,siricousanic
+Washington Redskins,Montae Nicholson,SAF,Michigan State,0.9215,2017_123,123,DB,Yes,Nicholson,Montae,nictaesonmon
+Detroit Lions,Jalen Reeves-Maybin,LB,Tennessee,0.905,2017_124,124,LB,Yes,Reeves-Maybin,Jalen,reelenbinjal
+Los Angeles Rams,Samson Ebukam,LB,Eastern Washington,,2017_125,125,LB,No,Ebukam,Samson,ebusonkamsam
+Cleveland Browns,Howard Wilson,CB,Houston,,2017_126,126,DB,No,Wilson,Howard,wilardsonhow
+Detroit Lions,Michael Roberts,TE,Toledo,,2017_127,127,TE,No,Roberts,Michael,robaelrtsmic
+Cincinnati Bengals,Josh Malone,WR,Tennessee,0.9826,2017_128,128,WR,Yes,Malone,Josh,maloshonejos
+Oakland Raiders,David Sharpe,T,Florida,0.9437,2017_129,129,OL,Yes,Sharpe,David,shavidrpedav
+Houston Texans,Julie'n Davenport,T,Bucknell,,2017_130,130,OL,No,Davenport,Julie'n,dave'nortjul
+New England Patriots,Deatrich Wise,DE,Arkansas,,2017_131,131,DL,No,Wise,Deatrich,wisichisedea
+Philadelphia Eagles,DJ Pumphrey,RB,San Diego State,,2017_132,132,RB,No,Pumphrey,DJ,pumdjreydj
+Dallas Cowboys,Ryan Switzer,WR,North Carolina,0.8706,2017_133,133,WR,Yes,Switzer,Ryan,swiyanzerrya
+Green Bay Packers,Jamaal Williams,RB,Brigham Young,,2017_134,134,RB,No,Williams,Jamaal,wilaalamsjam
+Pittsburgh Steelers,Joshua Dobbs,QB,Tennessee,0.9305,2017_135,135,QB,Yes,Dobbs,Joshua,dobhuabbsjos
+Atlanta Falcons,Sean Harlow,G,Oregon State,0.864,2017_136,136,OL,Yes,Harlow,Sean,hareanlowsea
+Indianapolis Colts,Zach Banner,T,USC,0.9703,2017_137,137,OL,Yes,Banner,Zach,banachnerzac
+Cincinnati Bengals,Ryan Glasgow,DT,Michigan,,2017_138,138,DL,No,Glasgow,Ryan,glayangowrya
+Kansas City Chiefs,Jehu Chesson,WR,Michigan,0.865,2017_139,139,WR,Yes,Chesson,Jehu,cheehusonjeh
+New York Giants,Wayne Gallman,RB,Clemson,0.8938,2017_140,140,RB,Yes,Gallman,Wayne,galynemanway
+New York Jets,Chad Hansen,WR,California,,2017_141,141,WR,No,Hansen,Chad,hanhadsencha
+Houston Texans,Carlos Watkins,DT,Clemson,0.9666,2017_142,142,DL,Yes,Watkins,Carlos,watlosinscar
+Indianapolis Colts,Marlon Mack,RB,South Florida,0.8531,2017_143,143,RB,Yes,Mack,Marlon,maclonackmar
+Indianapolis Colts,Grover Stewart,DT,Albany State (Ga.),,2017_144,144,DL,No,Stewart,Grover,steverartgro
+Los Angeles Rams,Jared Goff,QB,California,0.9154,2016_1,1,QB,Yes,Goff,Jared,gofredoffjar
+Philadelphia Eagles,Carson Wentz,QB,North Dakota State,,2016_2,2,QB,No,Wentz,Carson,wensonntzcar
+San Diego Chargers,Joey Bosa,DE,Ohio State,0.9819,2016_3,3,DL,Yes,Bosa,Joey,bosoeyosajoe
+Dallas Cowboys,Ezekiel Elliott,RB,Ohio State,0.9711,2016_4,4,RB,Yes,Elliott,Ezekiel,ellielotteze
+Jacksonville Jaguars,Jalen Ramsey,CB,Florida State,0.9923,2016_5,5,DB,Yes,Ramsey,Jalen,ramlenseyjal
+Baltimore Ravens,Ronnie Stanley,T,Notre Dame,0.9462,2016_6,6,OL,Yes,Stanley,Ronnie,stanieleyron
+San Francisco 49ers,DeForest Buckner,DE,Oregon,0.9177,2016_7,7,DL,Yes,Buckner,DeForest,bucestnerdef
+Tennessee Titans,Jack Conklin,T,Michigan State,,2016_8,8,OL,No,Conklin,Jack,conacklinjac
+Chicago Bears,Leonard Floyd,LB,Georgia,0.9411,2016_9,9,LB,Yes,Floyd,Leonard,floardoydleo
+New York Giants,Eli Apple,CB,Ohio State,0.9749,2016_10,10,DB,Yes,Apple,Eli,appelipleeli
+Tampa Bay Buccaneers,Vernon Hargreaves,CB,Florida,,2016_11,11,DB,No,Hargreaves,Vernon,harnonvesver
+New Orleans Saints,Sheldon Rankins,DT,Louisville,0.8555,2016_12,12,DL,Yes,Rankins,Sheldon,randoninsshe
+Miami Dolphins,Laremy Tunsil,T,Mississippi,0.9976,2016_13,13,OL,Yes,Tunsil,Laremy,tunemysillar
+Oakland Raiders,Karl Joseph,SAF,West Virginia,0.877,2016_14,14,DB,Yes,Joseph,Karl,josarlephkar
+Cleveland Browns,Corey Coleman,WR,Baylor,0.9371,2016_15,15,WR,Yes,Coleman,Corey,colreymancor
+Detroit Lions,Taylor Decker,T,Ohio State,0.9326,2016_16,16,OL,Yes,Decker,Taylor,declorkertay
+Atlanta Falcons,Keanu Neal,SAF,Florida,0.9486,2016_17,17,DB,Yes,Neal,Keanu,neaanuealkea
+Indianapolis Colts,Ryan Kelly,C,Alabama,0.901,2016_18,18,OL,Yes,Kelly,Ryan,kelyanllyrya
+Buffalo Bills,Shaq Lawson,DE,Clemson,0.8944,2016_19,19,DL,Yes,Lawson,Shaq,lawhaqsonsha
+New York Jets,Darron Lee,LB,Ohio State,0.8595,2016_20,20,LB,Yes,Lee,Darron,leeronleedar
+Houston Texans,Will Fuller,WR,Notre Dame,0.9005,2016_21,21,WR,Yes,Fuller,Will,fulilllerwil
+Washington Redskins,Josh Doctson,WR,Texas Christian,,2016_22,22,WR,No,Doctson,Josh,docoshsonjos
+Minnesota Vikings,Laquon Treadwell,WR,Mississippi,0.9925,2016_23,23,WR,Yes,Treadwell,Laquon,treuonelllaq
+Cincinnati Bengals,William Jackson,CB,Houston,,2016_24,24,DB,No,Jackson,William,jaciamsonwil
+Pittsburgh Steelers,Artie Burns,CB,Miami (Fla.),0.9545,2016_25,25,DB,Yes,Burns,Artie,burtiernsart
+Denver Broncos,Paxton Lynch,QB,Memphis,,2016_26,26,QB,No,Lynch,Paxton,lyntonnchpax
+Green Bay Packers,Kenny Clark,NT,UCLA,0.9016,2016_27,27,DL,Yes,Clark,Kenny,clannyarkken
+San Francisco 49ers,Joshua Garnett,G,Stanford,0.9825,2016_28,28,OL,Yes,Garnett,Joshua,garhuaettjos
+Arizona Cardinals,Robert Nkemdiche,DT,Mississippi,1,2016_29,29,DL,Yes,Nkemdiche,Robert,nkeertcherob
+Carolina Panthers,Vernon Butler,DT,Louisiana Tech,,2016_30,30,DL,No,Butler,Vernon,butnonlerver
+Seattle Seahawks,Germain Ifedi,G,Texas A&M,0.9098,2016_31,31,OL,Yes,Ifedi,Germain,ifeainediger
+Cleveland Browns,Emmanuel Ogbah,DE,Oklahoma State,0.8646,2016_32,32,DL,Yes,Ogbah,Emmanuel,ogbuelbahemm
+Tennessee Titans,Kevin Dodd,DE,Clemson,0.8378,2016_33,33,DL,Yes,Dodd,Kevin,dodvinoddkev
+Dallas Cowboys,Jaylon Smith,OLB,Notre Dame,0.9987,2016_34,34,LB,Yes,Smith,Jaylon,smilonithjay
+San Diego Chargers,Hunter Henry,TE,Arkansas,0.9634,2016_35,35,TE,Yes,Henry,Hunter,henternryhun
+Jacksonville Jaguars,Myles Jack,LB,UCLA,0.914,2016_36,36,LB,Yes,Jack,Myles,jaclesackmyl
+Kansas City Chiefs,Chris Jones,DT,Mississippi State,0.9626,2016_37,37,DL,Yes,Jones,Chris,jonrisneschr
+Miami Dolphins,Xavien Howard,CB,Baylor,,2016_38,38,DB,No,Howard,Xavien,howienardxav
+Tampa Bay Buccaneers,Noah Spence,DE,Eastern Kentucky,0.9975,2016_39,39,DL,Yes,Spence,Noah,speoahncenoa
+New York Giants,Sterling Shepard,WR,Oklahoma,0.9551,2016_40,40,WR,Yes,Shepard,Sterling,sheingardste
+Buffalo Bills,Reggie Ragland,ILB,Alabama,0.9809,2016_41,41,LB,Yes,Ragland,Reggie,raggieandreg
+Baltimore Ravens,Kamalei Correa,DE,Boise State,0.8441,2016_42,42,DL,Yes,Correa,Kamalei,corleireakam
+Tennessee Titans,Austin Johnson,NT,Penn State,0.8479,2016_43,43,DL,Yes,Johnson,Austin,johtinsonaus
+Oakland Raiders,Jihad Ward,DE,Illinois,,2016_44,44,DL,No,Ward,Jihad,warhadardjih
+Tennessee Titans,Derrick Henry,RB,Alabama,0.9929,2016_45,45,RB,Yes,Henry,Derrick,henicknryder
+Detroit Lions,A'Shawn Robinson,DT,Alabama,0.9852,2016_46,46,DL,Yes,Robinson,A'Shawn,robawnsona's
+New Orleans Saints,Michael Thomas,WR,Ohio State,0.8333,2016_47,47,WR,Yes,Thomas,Michael,thoaelmasmic
+Green Bay Packers,Jason Spriggs,T,Indiana,0.8529,2016_48,48,OL,Yes,Spriggs,Jason,sprsonggsjas
+Seattle Seahawks,Jarran Reed,DT,Alabama,,2016_49,49,DL,No,Reed,Jarran,reeraneedjar
+Houston Texans,Nick Martin,G,Notre Dame,0.861,2016_50,50,OL,Yes,Martin,Nick,maricktinnic
+New York Jets,Christian Hackenberg,QB,Penn State,0.9927,2016_51,51,QB,Yes,Hackenberg,Christian,hacianergchr
+Atlanta Falcons,Deion Jones,LB,LSU,0.8899,2016_52,52,LB,Yes,Jones,Deion,jonionnesdei
+Washington Redskins,Su'a Cravens,LB,USC,0.9962,2016_53,53,LB,Yes,Cravens,Su'a,crau'aenssu'
+Minnesota Vikings,Mackensie Alexander,CB,Clemson,0.9853,2016_54,54,DB,Yes,Alexander,Mackensie,alesiedermac
+Cincinnati Bengals,Tyler Boyd,WR,Pittsburgh,0.9418,2016_55,55,WR,Yes,Boyd,Tyler,boyleroydtyl
+Chicago Bears,Cody Whitehair,C,Kansas State,,2016_56,56,OL,No,Whitehair,Cody,whiodyaircod
+Indianapolis Colts,T.J. Green,SAF,Clemson,0.8502,2016_57,57,DB,Yes,Green,T.J.,gre.j.eent.j
+Pittsburgh Steelers,Sean Davis,SAF,Maryland,0.8657,2016_58,58,DB,Yes,Davis,Sean,daveanvissea
+Tampa Bay Buccaneers,Roberto Aguayo,K,Florida State,,2016_59,59,K,No,Aguayo,Roberto,agurtoayorob
+New England Patriots,Cyrus Jones,CB,Alabama,0.9788,2016_60,60,DB,Yes,Jones,Cyrus,jonrusnescyr
+New Orleans Saints,Vonn Bell,SAF,Ohio State,0.9876,2016_61,61,DB,Yes,Bell,Vonn,belonnellvon
+Carolina Panthers,James Bradberry,CB,Samford,,2016_62,62,DB,No,Bradberry,James,bramesrryjam
+Denver Broncos,Adam Gotsis,DT,Georgia Tech,,2016_63,63,DL,No,Gotsis,Adam,gotdamsisada
+Tennessee Titans,Kevin Byard,SAF,Middle Tennessee State,,2016_64,64,DB,No,Byard,Kevin,byavinardkev
+Cleveland Browns,Carl Nassib,DE,Penn State,,2016_65,65,DL,No,Nassib,Carl,nasarlsibcar
+San Diego Chargers,Max Tuerk,C,USC,0.9703,2016_66,66,OL,Yes,Tuerk,Max,tuemaxerkmax
+Dallas Cowboys,Maliek Collins,DT,Nebraska,0.8661,2016_67,67,DL,Yes,Collins,Maliek,coliekinsmal
+San Francisco 49ers,Will Redmond,CB,Mississippi State,0.9018,2016_68,68,DB,Yes,Redmond,Will,redillondwil
+Jacksonville Jaguars,Yannick Ngakoue,DE,Maryland,0.8933,2016_69,69,DL,Yes,Ngakoue,Yannick,ngaickoueyan
+Baltimore Ravens,Bronson Kaufusi,DE,Brigham Young,0.928,2016_70,70,DL,Yes,Kaufusi,Bronson,kausonusibro
+New York Giants,Darian Thompson,SAF,Boise State,,2016_71,71,DB,No,Thompson,Darian,thoiansondar
+Chicago Bears,Jonathan Bullard,DE,Florida,0.9924,2016_72,72,DL,Yes,Bullard,Jonathan,bulhanardjon
+Miami Dolphins,Kenyan Drake,RB,Alabama,0.9454,2016_73,73,RB,Yes,Drake,Kenyan,drayanakeken
+Kansas City Chiefs,KeiVarae Russell,CB,Notre Dame,0.9403,2016_74,74,DB,Yes,Russell,KeiVarae,rusraeellkei
+Oakland Raiders,Shilique Calhoun,DE,Michigan State,0.8388,2016_75,75,DL,Yes,Calhoun,Shilique,calqueounshi
+Cleveland Browns,Shon Coleman,T,Auburn,0.9528,2016_76,76,OL,Yes,Coleman,Shon,colhonmansho
+Carolina Panthers,Daryl Worley,CB,West Virginia,0.8488,2016_77,77,DB,Yes,Worley,Daryl,worrylleydar
+New England Patriots,Joe Thuney,G,North Carolina State,,2016_78,78,OL,No,Thuney,Joe,thujoeneyjoe
+Philadelphia Eagles,Isaac Seumalo,G,Oregon State,0.9876,2016_79,79,OL,Yes,Seumalo,Isaac,seuaacaloisa
+Buffalo Bills,Adolphus Washington,DT,Ohio State,0.9895,2016_80,80,DL,Yes,Washington,Adolphus,washustonado
+Atlanta Falcons,Austin Hooper,TE,Stanford,0.881,2016_81,81,TE,Yes,Hooper,Austin,hootinperaus
+Indianapolis Colts,Le'Raven Clark,T,Texas Tech,0.906,2016_82,82,OL,Yes,Clark,Le'Raven,clavenarkle'
+New York Jets,Jordan Jenkins,LB,Georgia,0.9845,2016_83,83,LB,Yes,Jenkins,Jordan,jendaninsjor
+Washington Redskins,Kendall Fuller,CB,Virginia Tech,0.9923,2016_84,84,DB,Yes,Fuller,Kendall,fulalllerken
+Houston Texans,Braxton Miller,WR,Ohio State,0.9847,2016_85,85,WR,Yes,Miller,Braxton,miltonlerbra
+Miami Dolphins,Leonte Carroo,WR,Rutgers,0.9295,2016_86,86,WR,Yes,Carroo,Leonte,carnterooleo
+Cincinnati Bengals,Nick Vigil,ILB,Utah State,,2016_87,87,LB,No,Vigil,Nick,vigickgilnic
+Green Bay Packers,Kyler Fackrell,LB,Utah State,,2016_88,88,LB,No,Fackrell,Kyler,faclerellkyl
+Pittsburgh Steelers,Javon Hargrave,DT,South Carolina State,,2016_89,89,DL,No,Hargrave,Javon,harvonavejav
+Seattle Seahawks,C.J. Prosise,RB,Notre Dame,0.8915,2016_90,90,RB,Yes,Prosise,C.J.,pro.j.isec.j
+New England Patriots,Jacoby Brissett,QB,North Carolina State,0.9405,2016_91,91,QB,Yes,Brissett,Jacoby,briobyettjac
+Arizona Cardinals,Brandon Williams,CB,Texas A&M,0.9927,2016_92,92,DB,Yes,Williams,Brandon,wildonamsbra
+Cleveland Browns,Cody Kessler,QB,USC,0.9311,2016_93,93,QB,Yes,Kessler,Cody,kesodylercod
+Seattle Seahawks,Nick Vannett,TE,Ohio State,0.9116,2016_94,94,TE,Yes,Vannett,Nick,vanickettnic
+Detroit Lions,Graham Glasgow,G,Michigan,,2016_95,95,OL,No,Glasgow,Graham,glahamgowgra
+New England Patriots,Vincent Valentine,DT,Nebraska,0.8774,2016_96,96,DL,Yes,Valentine,Vincent,valentinevin
+Seattle Seahawks,Rees Odhiambo,G,Boise State,,2016_97,97,OL,No,Odhiambo,Rees,odheesmboree
+Denver Broncos,Justin Simmons,SAF,Boston College,,2016_98,98,DB,No,Simmons,Justin,simtinonsjus
+Cleveland Browns,Joe Schobert,OLB,Wisconsin,,2016_99,99,LB,No,Schobert,Joe,schjoeertjoe
+Oakland Raiders,Connor Cook,QB,Michigan State,0.8367,2016_100,100,QB,Yes,Cook,Connor,coonorookcon
+Dallas Cowboys,Charles Tapper,DE,Oklahoma,0.8933,2016_101,101,DL,Yes,Tapper,Charles,taplespercha
+San Diego Chargers,Joshua Perry,LB,Ohio State,0.9436,2016_102,102,LB,Yes,Perry,Joshua,perhuarryjos
+Jacksonville Jaguars,Sheldon Day,DT,Notre Dame,0.9509,2016_103,103,DL,Yes,Day,Sheldon,daydondayshe
+Baltimore Ravens,Tavon Young,CB,Temple,,2016_104,104,DB,No,Young,Tavon,youvonungtav
+Kansas City Chiefs,Parker Ehinger,G,Cincinnati,,2016_105,105,OL,No,Ehinger,Parker,ehikergerpar
+Kansas City Chiefs,Eric Murray,CB,Minnesota,,2016_106,106,DB,No,Murray,Eric,murricrayeri
+Baltimore Ravens,Chris Moore,WR,Cincinnati,0.8441,2016_107,107,WR,Yes,Moore,Chris,moorisorechr
+Tampa Bay Buccaneers,Ryan Smith,CB,North Carolina Central,,2016_108,108,DB,No,Smith,Ryan,smiyanithrya
+New York Giants,B.J. Goodson,LB,Clemson,,2016_109,109,LB,No,Goodson,B.J.,goo.j.sonb.j
+Los Angeles Rams,Tyler Higbee,TE,Western Kentucky,,2016_110,110,TE,No,Higbee,Tyler,higlerbeetyl
+Detroit Lions,Miles Killebrew,SAF,Southern Utah,,2016_111,111,DB,No,Killebrew,Miles,killesrewmil
+New England Patriots,Malcolm Mitchell,WR,Georgia,0.981,2016_112,112,WR,Yes,Mitchell,Malcolm,mitolmellmal
+Chicago Bears,Nick Kwiatkoski,LB,West Virginia,,2016_113,113,LB,No,Kwiatkoski,Nick,kwiickskinic
+Cleveland Browns,Ricardo Louis,WR,Auburn,0.9393,2016_114,114,WR,Yes,Louis,Ricardo,lourdouisric
+Atlanta Falcons,De'Vondre Campbell,LB,Minnesota,,2016_115,115,LB,No,Campbell,De'Vondre,camdreellde'
+Indianapolis Colts,Hassan Ridgeway,DT,Texas,0.9174,2016_116,116,DL,Yes,Ridgeway,Hassan,ridsanwayhas
+Los Angeles Rams,Pharoh Cooper,WR,South Carolina,0.873,2016_117,117,WR,Yes,Cooper,Pharoh,coorohperpha
+New York Jets,Juston Burris,CB,North Carolina State,,2016_118,118,DB,No,Burris,Juston,burtonrisjus
+Houston Texans,Tyler Ervin,RB,San Jose State,,2016_119,119,RB,No,Ervin,Tyler,ervlervintyl
+New Orleans Saints,David Onyemata,DT,Manitoba (Canada),,2016_120,120,DL,No,Onyemata,David,onyvidatadav
+Minnesota Vikings,Willie Beavers,T,Western Michigan,,2016_121,121,OL,No,Beavers,Willie,bealieerswil
+Cincinnati Bengals,Andrew Billings,NT,Baylor,0.937,2016_122,122,DL,Yes,Billings,Andrew,bilrewngsand
+Pittsburgh Steelers,Jerald Hawkins,T,LSU,0.8935,2016_123,123,OL,Yes,Hawkins,Jerald,hawaldinsjer
+Chicago Bears,Deon Bush,SAF,Miami (Fla.),0.9452,2016_124,124,DB,Yes,Bush,Deon,buseonushdeo
+Indianapolis Colts,Antonio Morrison,LB,Florida,0.8947,2016_125,125,LB,Yes,Morrison,Antonio,morniosonant
+Kansas City Chiefs,Demarcus Robinson,WR,Florida,0.8854,2016_126,126,WR,Yes,Robinson,Demarcus,robcussondem
+Chicago Bears,Deiondre' Hall,SAF,Northern Iowa,,2016_127,127,DB,No,Hall,Deiondre',halre'alldei
+Arizona Cardinals,Evan Boehm,C,Missouri,0.9539,2016_128,128,OL,Yes,Boehm,Evan,boevanehmeva
+Cleveland Browns,Derrick Kindred,SAF,Texas Christian,,2016_129,129,DB,No,Kindred,Derrick,kinickredder
+Baltimore Ravens,Alex Lewis,T,Nebraska,,2016_130,130,OL,No,Lewis,Alex,lewlexwisale
+Green Bay Packers,Blake Martinez,LB,Stanford,0.8594,2016_131,131,LB,Yes,Martinez,Blake,marakenezbla
+Baltimore Ravens,Willie Henry,DT,Michigan,0.8437,2016_132,132,DL,Yes,Henry,Willie,henlienrywil
+San Francisco 49ers,Rashard Robinson,CB,LSU,0.8903,2016_133,133,DB,Yes,Robinson,Rashard,robardsonras
+Baltimore Ravens,Kenneth Dixon,RB,Louisiana Tech,0.8472,2016_134,134,RB,Yes,Dixon,Kenneth,dixethxonken
+Dallas Cowboys,Dak Prescott,QB,Mississippi State,0.8569,2016_135,135,QB,Yes,Prescott,Dak,predakottdak
+Denver Broncos,Devontae Booker,RB,Utah,,2016_136,136,RB,No,Booker,Devontae,bootaekerdev
+Green Bay Packers,Dean Lowry,DE,Northwestern,0.8558,2016_137,137,DL,Yes,Lowry,Dean,loweanwrydea
+Cleveland Browns,Seth DeValve,WR,Princeton,,2016_138,138,WR,No,DeValve,Seth,devethlveset
+Buffalo Bills,Cardale Jones,QB,Ohio State,0.8715,2016_139,139,QB,Yes,Jones,Cardale,jonalenescar
+Tampa Bay Buccaneers,Jameis Winston,QB,Florida State,0.9915,2015_1,1,QB,Yes,Winston,Jameis,wineistonjam
+Tennessee Titans,Marcus Mariota,QB,Oregon,0.8631,2015_2,2,QB,Yes,Mariota,Marcus,marcusotamar
+Jacksonville Jaguars,Dante Fowler,LB,Florida,0.9842,2015_3,3,LB,Yes,Fowler,Dante,fowntelerdan
+Oakland Raiders,Amari Cooper,WR,Alabama,0.9776,2015_4,4,WR,Yes,Cooper,Amari,cooariperama
+Washington Redskins,Brandon Scherff,T,Iowa,0.8701,2015_5,5,OL,Yes,Scherff,Brandon,schdonrffbra
+New York Jets,Leonard Williams,DT,USC,0.9758,2015_6,6,DL,Yes,Williams,Leonard,wilardamsleo
+Chicago Bears,Kevin White,WR,West Virginia,0.8333,2015_7,7,WR,Yes,White,Kevin,whivinitekev
+Atlanta Falcons,Vic Beasley,LB,Clemson,0.8622,2015_8,8,LB,Yes,Beasley,Vic,beavicleyvic
+New York Giants,Ereck Flowers,T,Miami (Fla.),0.9349,2015_9,9,OL,Yes,Flowers,Ereck,floeckersere
+St. Louis Rams,Todd Gurley,RB,Georgia,0.9654,2015_10,10,RB,Yes,Gurley,Todd,guroddleytod
+Minnesota Vikings,Trae Waynes,CB,Michigan State,,2015_11,11,DB,No,Waynes,Trae,wayraenestra
+Cleveland Browns,Danny Shelton,DT,Washington,0.8826,2015_12,12,DL,Yes,Shelton,Danny,shennytondan
+New Orleans Saints,Andrus Peat,T,Stanford,0.9849,2015_13,13,OL,Yes,Peat,Andrus,pearuseatand
+Miami Dolphins,DeVante Parker,WR,Louisville,0.8865,2015_14,14,WR,Yes,Parker,DeVante,parntekerdev
+San Diego Chargers,Melvin Gordon,RB,Wisconsin,0.8983,2015_15,15,RB,Yes,Gordon,Melvin,gorvindonmel
+Houston Texans,Kevin Johnson,CB,Wake Forest,0.8764,2015_16,16,DB,Yes,Johnson,Kevin,johvinsonkev
+San Francisco 49ers,Arik Armstead,DE,Oregon,0.9917,2015_17,17,DL,Yes,Armstead,Arik,armrikeadari
+Kansas City Chiefs,Marcus Peters,CB,Washington,0.8634,2015_18,18,DB,Yes,Peters,Marcus,petcusersmar
+Cleveland Browns,Cameron Erving,T,Florida State,0.859,2015_19,19,OL,Yes,Erving,Cameron,ervroningcam
+Philadelphia Eagles,Nelson Agholor,WR,USC,0.9854,2015_20,20,WR,Yes,Agholor,Nelson,aghsonlornel
+Cincinnati Bengals,Cedric Ogbuehi,T,Texas A&M,0.9412,2015_21,21,OL,Yes,Ogbuehi,Cedric,ogbricehiced
+Pittsburgh Steelers,Bud Dupree,LB,Kentucky,0.8468,2015_22,22,LB,Yes,Dupree,Bud,dupbudreebud
+Denver Broncos,Shane Ray,DE,Missouri,0.8807,2015_23,23,DL,Yes,Ray,Shane,rayaneraysha
+Arizona Cardinals,D.J. Humphries,T,Florida,0.998,2015_24,24,OL,Yes,Humphries,D.J.,hum.j.iesd.j
+Carolina Panthers,Shaq Thompson,LB,Washington,0.9978,2015_25,25,LB,Yes,Thompson,Shaq,thohaqsonsha
+Baltimore Ravens,Breshad Perriman,WR,Central Florida,,2015_26,26,WR,No,Perriman,Breshad,perhadmanbre
+Dallas Cowboys,Byron Jones,CB,Connecticut,,2015_27,27,DB,No,Jones,Byron,jonronnesbyr
+Detroit Lions,Laken Tomlinson,G,Duke,0.867,2015_28,28,OL,Yes,Tomlinson,Laken,tomkensonlak
+Indianapolis Colts,Phillip Dorsett,WR,Miami (Fla.),0.8731,2015_29,29,WR,Yes,Dorsett,Phillip,dorlipettphi
+Green Bay Packers,Damarious Randall,DB,Arizona State,,2015_30,30,DB,No,Randall,Damarious,ranousalldam
+New Orleans Saints,Stephone Anthony,LB,Clemson,0.9905,2015_31,31,LB,Yes,Anthony,Stephone,antoneonyste
+New England Patriots,Malcom Brown,DT,Texas,0.9944,2015_32,32,DL,Yes,Brown,Malcom,brocomownmal
+New York Giants,Landon Collins,SAF,Alabama,0.9971,2015_33,33,DB,Yes,Collins,Landon,coldoninslan
+Tampa Bay Buccaneers,Donovan Smith,T,Penn State,0.9241,2015_34,34,OL,Yes,Smith,Donovan,smivanithdon
+Oakland Raiders,Mario Edwards,DE,Florida State,0.9995,2015_35,35,DL,Yes,Edwards,Mario,edwriordsmar
+Jacksonville Jaguars,T.J. Yeldon,RB,Alabama,0.9876,2015_36,36,RB,Yes,Yeldon,T.J.,yel.j.dont.j
+New York Jets,Devin Smith,WR,Ohio State,0.8542,2015_37,37,WR,Yes,Smith,Devin,smivinithdev
+Washington Redskins,Preston Smith,DE,Mississippi State,,2015_38,38,DL,No,Smith,Preston,smitonithpre
+Chicago Bears,Eddie Goldman,DT,Florida State,0.9944,2015_39,39,DL,Yes,Goldman,Eddie,goldiemanedd
+Tennessee Titans,Dorial Green-Beckham,WR,Oklahoma,0.9998,2015_40,40,WR,Yes,Green-Beckham,Dorial,greialhamdor
+Carolina Panthers,Devin Funchess,WR,Michigan,0.9095,2015_41,41,WR,Yes,Funchess,Devin,funvinessdev
+Atlanta Falcons,Jalen Collins,CB,LSU,0.8772,2015_42,42,DB,Yes,Collins,Jalen,colleninsjal
+Houston Texans,Benardrick McKinney,LB,Mississippi State,,2015_43,43,LB,No,McKinney,Benardrick,mckickneyben
+New Orleans Saints,Hau'oli Kikaha,LB,Washington,0.8542,2015_44,44,LB,Yes,Kikaha,Hau'oli,kikoliahahau
+Minnesota Vikings,Eric Kendricks,LB,UCLA,0.8622,2015_45,45,LB,Yes,Kendricks,Eric,kenricckseri
+San Francisco 49ers,Jaquiski Tartt,SAF,Samford,,2015_46,46,DB,No,Tartt,Jaquiski,tarskirttjaq
+Philadelphia Eagles,Eric Rowe,CB,Utah,0.8665,2015_47,47,DB,Yes,Rowe,Eric,rowricoweeri
+San Diego Chargers,Denzel Perryman,LB,Miami (Fla.),0.8857,2015_48,48,LB,Yes,Perryman,Denzel,perzelmanden
+Kansas City Chiefs,Mitch Morse,G,Missouri,0.8826,2015_49,49,OL,Yes,Morse,Mitch,mortchrsemit
+Buffalo Bills,Ronald Darby,CB,Florida State,0.9879,2015_50,50,DB,Yes,Darby,Ronald,daraldrbyron
+Cleveland Browns,Nate Orchard,DE,Utah,0.8449,2015_51,51,DL,Yes,Orchard,Nate,orcateardnat
+Miami Dolphins,Jordan Phillips,DT,Oklahoma,0.974,2015_52,52,DL,Yes,Phillips,Jordan,phidanipsjor
+Cincinnati Bengals,Jake Fisher,T,Oregon,0.8793,2015_53,53,OL,Yes,Fisher,Jake,fisakeherjak
+Detroit Lions,Ameer Abdullah,RB,Nebraska,0.8653,2015_54,54,RB,Yes,Abdullah,Ameer,abdeerlahame
+Baltimore Ravens,Maxx Williams,TE,Minnesota,,2015_55,55,TE,No,Williams,Maxx,wilaxxamsmax
+Pittsburgh Steelers,Senquez Golson,CB,Mississippi,0.8876,2015_56,56,DB,Yes,Golson,Senquez,goluezsonsen
+St. Louis Rams,Rob Havenstein,T,Wisconsin,0.8653,2015_57,57,OL,Yes,Havenstein,Rob,havrobeinrob
+Arizona Cardinals,Markus Golden,DE,Missouri,,2015_58,58,DL,No,Golden,Markus,golkusdenmar
+Denver Broncos,Ty Sambrailo,T,Colorado State,,2015_59,59,OL,No,Sambrailo,Ty,samtyiloty
+Dallas Cowboys,Randy Gregory,LB,Nebraska,,2015_60,60,LB,No,Gregory,Randy,grendyoryran
+Tampa Bay Buccaneers,Ali Marpet,G,Hobart,,2015_61,61,OL,No,Marpet,Ali,maralipetali
+Green Bay Packers,Quinten Rollins,CB,Miami (Ohio),,2015_62,62,DB,No,Rollins,Quinten,rolteninsqui
+Seattle Seahawks,Frank Clark,DE,Michigan,0.8516,2015_63,63,DL,Yes,Clark,Frank,claankarkfra
+New England Patriots,Jordan Richards,SAF,Stanford,0.8755,2015_64,64,DB,Yes,Richards,Jordan,ricdanrdsjor
+Indianapolis Colts,D'Joun Smith,CB,Florida Atlantic,,2015_65,65,DB,No,Smith,D'Joun,smiounithd'j
+Tennessee Titans,Jeremiah Poutasi,G,Utah,0.9201,2015_66,66,OL,Yes,Poutasi,Jeremiah,pouiahasijer
+Jacksonville Jaguars,A.J. Cann,G,South Carolina,0.9375,2015_67,67,OL,Yes,Cann,A.J.,can.j.anna.j
+Oakland Raiders,Clive Walford,TE,Miami (Fla.),,2015_68,68,TE,No,Walford,Clive,waliveordcli
+Seattle Seahawks,Tyler Lockett,WR,Kansas State,0.8497,2015_69,69,WR,Yes,Lockett,Tyler,locleretttyl
+Houston Texans,Jaelen Strong,WR,Arizona State,,2015_70,70,WR,No,Strong,Jaelen,strlenongjae
+Chicago Bears,Hroniss Grasu,C,Oregon,0.867,2015_71,71,OL,Yes,Grasu,Hroniss,graissasuhro
+St. Louis Rams,Jamon Brown,T,Louisville,0.8609,2015_72,72,OL,Yes,Brown,Jamon,bromonownjam
+Atlanta Falcons,Tevin Coleman,RB,Indiana,0.8686,2015_73,73,RB,Yes,Coleman,Tevin,colvinmantev
+New York Giants,Owa Odighizuwa,DE,UCLA,,2015_74,74,DL,No,Odighizuwa,Owa,odiowauwaowa
+New Orleans Saints,Garrett Grayson,QB,Colorado State,0.8556,2015_75,75,QB,Yes,Grayson,Garrett,graettsongar
+Kansas City Chiefs,Chris Conley,WR,Georgia,0.8918,2015_76,76,WR,Yes,Conley,Chris,conrisleychr
+Cleveland Browns,Duke Johnson,RB,Miami (Fla.),0.9894,2015_77,77,RB,Yes,Johnson,Duke,johukesonduk
+New Orleans Saints,P.J. Williams,CB,Florida State,0.9487,2015_78,78,DB,Yes,Williams,P.J.,wil.j.amsp.j
+San Francisco 49ers,Eli Harold,LB,Virginia,0.9802,2015_79,79,LB,Yes,Harold,Eli,harelioldeli
+Detroit Lions,Alex Carter,CB,Stanford,0.9689,2015_80,80,DB,Yes,Carter,Alex,carlexterale
+Buffalo Bills,John Miller,G,Louisville,0.8465,2015_81,81,OL,Yes,Miller,John,milohnlerjoh
+New York Jets,Lorenzo Mauldin,LB,Louisville,0.8393,2015_82,82,LB,Yes,Mauldin,Lorenzo,maunzodinlor
+San Diego Chargers,Craig Mager,CB,Texas State,,2015_83,83,DB,No,Mager,Craig,magaiggercra
+Philadelphia Eagles,Jordan Hicks,LB,Texas,0.9962,2015_84,84,LB,Yes,Hicks,Jordan,hicdancksjor
+Cincinnati Bengals,Tyler Kroft,TE,Rutgers,,2015_85,85,TE,No,Kroft,Tyler,krolerofttyl
+Arizona Cardinals,David Johnson,RB,Northern Iowa,0.8795,2015_86,86,RB,Yes,Johnson,David,johvidsondav
+Pittsburgh Steelers,Sammie Coates,WR,Auburn,0.8795,2015_87,87,WR,Yes,Coates,Sammie,coamietessam
+Minnesota Vikings,Danielle Hunter,DE,LSU,0.9241,2015_88,88,DL,Yes,Hunter,Danielle,hunlleterdan
+St. Louis Rams,Sean Mannion,QB,Oregon State,0.8907,2015_89,89,QB,Yes,Mannion,Sean,maneanionsea
+Baltimore Ravens,Carl Davis,DT,Iowa,0.8559,2015_90,90,DL,Yes,Davis,Carl,davarlviscar
+Dallas Cowboys,Chaz Green,T,Florida,0.978,2015_91,91,OL,Yes,Green,Chaz,grehazeencha
+Denver Broncos,Jeff Heuerman,TE,Ohio State,0.8696,2015_92,92,TE,Yes,Heuerman,Jeff,heueffmanjef
+Indianapolis Colts,Henry Anderson,DE,Stanford,0.867,2015_93,93,DL,Yes,Anderson,Henry,andnrysonhen
+Green Bay Packers,Ty Montgomery,WR,Stanford,0.9026,2015_94,94,WR,Yes,Montgomery,Ty,montyeryty
+Washington Redskins,Matt Jones,RB,Florida,0.9347,2015_95,95,RB,Yes,Jones,Matt,jonattnesmat
+Cleveland Browns,Xavier Cooper,DT,Washington State,,2015_96,96,DL,No,Cooper,Xavier,cooierperxav
+New England Patriots,Geneo Grissom,LB,Oklahoma,0.9123,2015_97,97,LB,Yes,Grissom,Geneo,grineosomgen
+Kansas City Chiefs,Steven Nelson,CB,Oregon State,,2015_98,98,DB,No,Nelson,Steven,nelvensonste
+Cincinnati Bengals,P.J. Dawson,LB,Texas Christian,,2015_99,99,LB,No,Dawson,P.J.,daw.j.sonp.j
+Tennessee Titans,Angelo Blackson,DT,Auburn,0.8759,2015_100,100,DL,Yes,Blackson,Angelo,blaelosonang
+New England Patriots,Trey Flowers,DE,Arkansas,,2015_101,101,DL,No,Flowers,Trey,floreyerstre
+Carolina Panthers,Daryl Williams,T,Oklahoma,0.9033,2015_102,102,OL,Yes,Williams,Daryl,wilrylamsdar
+New York Jets,Bryce Petty,QB,Baylor,,2015_103,103,QB,No,Petty,Bryce,petycettybry
+Jacksonville Jaguars,James Sample,SAF,Louisville,0.9174,2015_104,104,DB,Yes,Sample,James,sammesplejam
+Washington Redskins,Jamison Crowder,WR,Duke,,2015_105,105,WR,No,Crowder,Jamison,crosonderjam
+Chicago Bears,Jeremy Langford,RB,Michigan State,,2015_106,106,RB,No,Langford,Jeremy,lanemyordjer
+Atlanta Falcons,Justin Hardy,WR,East Carolina,,2015_107,107,WR,No,Hardy,Justin,hartinrdyjus
+Tennessee Titans,Jalston Fowler,FB,Alabama,0.9094,2015_108,108,RB,Yes,Fowler,Jalston,fowtonlerjal
+Indianapolis Colts,Clayton Geathers,SAF,Central Florida,,2015_109,109,DB,No,Geathers,Clayton,geatonerscla
+Minnesota Vikings,T.J. Clemmings,T,Pittsburgh,0.9205,2015_110,110,OL,Yes,Clemmings,T.J.,cle.j.ngst.j
+New England Patriots,Tre Jackson,G,Florida State,0.854,2015_111,111,OL,Yes,Jackson,Tre,jactresontre
+Washington Redskins,Arie Kouandjio,G,Alabama,0.9224,2015_112,112,OL,Yes,Kouandjio,Arie,kouriejioari
+Detroit Lions,Gabe Wright,DT,Auburn,0.9598,2015_113,113,DL,Yes,Wright,Gabe,wriabeghtgab
+Miami Dolphins,Jamil Douglas,G,Arizona State,,2015_114,114,OL,No,Douglas,Jamil,doumillasjam
+Cleveland Browns,Ibraheim Campbell,SAF,Northwestern,0.8559,2015_115,115,DB,Yes,Campbell,Ibraheim,cameimellibr
+Arizona Cardinals,Rodney Gunter,DT,Delaware State,,2015_116,116,DL,No,Gunter,Rodney,gunneyterrod
+San Francisco 49ers,Blake Bell,TE,Oklahoma,0.9678,2015_117,117,TE,Yes,Bell,Blake,belakeellbla
+Kansas City Chiefs,Ramik Wilson,LB,Georgia,0.8757,2015_118,118,LB,Yes,Wilson,Ramik,wilmiksonram
+St. Louis Rams,Andrew Donnal,T,Iowa,0.9041,2015_119,119,OL,Yes,Donnal,Andrew,donrewnaland
+Cincinnati Bengals,Josh Shaw,CB,USC,0.9867,2015_120,120,DB,Yes,Shaw,Josh,shaoshhawjos
+Pittsburgh Steelers,Doran Grant,CB,Ohio State,0.9705,2015_121,121,DB,Yes,Grant,Doran,graranantdor
+Baltimore Ravens,Za'Darius Smith,DE,Kentucky,,2015_122,122,DL,No,Smith,Za'Darius,smiiusithza'
+Cleveland Browns,Vince Mayle,WR,Washington State,,2015_123,123,WR,No,Mayle,Vince,maynceylevin
+Tampa Bay Buccaneers,Kwon Alexander,OLB,LSU,0.9572,2015_124,124,LB,Yes,Alexander,Kwon,alewonderkwo
+Baltimore Ravens,Javorius Allen,RB,USC,0.8905,2015_125,125,RB,Yes,Allen,Javorius,alliuslenjav
+San Francisco 49ers,Mike Davis,RB,South Carolina,0.9216,2015_126,126,RB,Yes,Davis,Mike,davikevismik
+Dallas Cowboys,Damien Wilson,LB,Minnesota,,2015_127,127,LB,No,Wilson,Damien,wiliensondam
+Oakland Raiders,Jon Feliciano,G,Miami (Fla.),0.8622,2015_128,128,OL,Yes,Feliciano,Jon,feljonanojon
+Green Bay Packers,Jake Ryan,LB,Michigan,0.8622,2015_129,129,LB,Yes,Ryan,Jake,ryaakeyanjak
+Seattle Seahawks,Terry Poole,T,San Diego State,,2015_130,130,OL,No,Poole,Terry,poorryoleter
+New England Patriots,Shaq Mason,C,Georgia Tech,,2015_131,131,OL,No,Mason,Shaq,mashaqsonsha
+San Francisco 49ers,DeAndre Smelter,WR,Georgia Tech,0.8622,2015_132,132,WR,Yes,Smelter,DeAndre,smedreterdea
+Denver Broncos,Max Garcia,C,Florida,0.8622,2015_133,133,OL,Yes,Garcia,Max,garmaxciamax
+Seattle Seahawks,Mark Glowinski,G,West Virginia,,2015_134,134,OL,No,Glowinski,Mark,gloarkskimar
+Cincinnati Bengals,Marcus Hardison,DT,Arizona State,,2015_135,135,DL,No,Hardison,Marcus,harcussonmar
+Baltimore Ravens,Tray Walker,CB,Texas Southern,,2015_136,136,DB,No,Walker,Tray,walraykertra
+Houston Texans,Jadeveon Clowney,DE,South Carolina,1,2014_1,1,DL,Yes,Clowney,Jadeveon,cloeonneyjad
+St. Louis Rams,Greg Robinson,T,Auburn,0.9389,2014_2,2,OL,Yes,Robinson,Greg,robregsongre
+Jacksonville Jaguars,Blake Bortles,QB,Central Florida,0.859,2014_3,3,QB,Yes,Bortles,Blake,borakelesbla
+Buffalo Bills,Sammy Watkins,WR,Clemson,0.9906,2014_4,4,WR,Yes,Watkins,Sammy,watmmyinssam
+Oakland Raiders,Khalil Mack,OLB,Buffalo,,2014_5,5,LB,No,Mack,Khalil,maclilackkha
+Atlanta Falcons,Jake Matthews,T,Texas A&M,0.981,2014_6,6,OL,Yes,Matthews,Jake,matakeewsjak
+Tampa Bay Buccaneers,Mike Evans,WR,Texas A&M,0.8493,2014_7,7,WR,Yes,Evans,Mike,evaikeansmik
+Cleveland Browns,Justin Gilbert,CB,Oklahoma State,0.9059,2014_8,8,DB,Yes,Gilbert,Justin,giltinertjus
+Minnesota Vikings,Anthony Barr,OLB,UCLA,0.9701,2014_9,9,LB,Yes,Barr,Anthony,baronyarrant
+Detroit Lions,Eric Ebron,TE,North Carolina,0.8671,2014_10,10,TE,Yes,Ebron,Eric,ebrricroneri
+Tennessee Titans,Taylor Lewan,T,Michigan,0.9244,2014_11,11,OL,Yes,Lewan,Taylor,lewlorwantay
+New York Giants,Odell Beckham,WR,LSU,,2014_12,12,WR,No,Beckham,Odell,becellhamode
+St. Louis Rams,Aaron Donald,DT,Pittsburgh,0.8893,2014_13,13,DL,Yes,Donald,Aaron,donronaldaar
+Chicago Bears,Kyle Fuller,CB,Virginia Tech,0.8797,2014_14,14,DB,Yes,Fuller,Kyle,fulylelerkyl
+Pittsburgh Steelers,Ryan Shazier,OLB,Ohio State,0.9476,2014_15,15,LB,Yes,Shazier,Ryan,shayanierrya
+Dallas Cowboys,Zack Martin,T,Notre Dame,0.9319,2014_16,16,OL,Yes,Martin,Zack,maracktinzac
+Baltimore Ravens,C.J. Mosley,ILB,Alabama,0.9644,2014_17,17,LB,Yes,Mosley,C.J.,mos.j.leyc.j
+New York Jets,Calvin Pryor,FS,Louisville,0.859,2014_18,18,DB,Yes,Pryor,Calvin,pryvinyorcal
+Miami Dolphins,Ja'Wuan James,T,Tennessee,0.9849,2014_19,19,OL,Yes,James,Ja'Wuan,jamuanmesja'
+New Orleans Saints,Brandin Cooks,WR,Oregon State,0.8746,2014_20,20,WR,Yes,Cooks,Brandin,coodinoksbra
+Green Bay Packers,Ha Ha Clinton-Dix,FS,Alabama,0.9955,2014_21,21,DB,Yes,Ha Clinton-Dix,Ha,hahadixha
+Cleveland Browns,Johnny Manziel,QB,Texas A&M,0.874,2014_22,22,QB,Yes,Manziel,Johnny,mannnyieljoh
+Kansas City Chiefs,Dee Ford,DE,Auburn,0.8789,2014_23,23,DL,Yes,Ford,Dee,fordeeorddee
+Cincinnati Bengals,Darqueze Dennard,CB,Michigan State,,2014_24,24,DB,No,Dennard,Darqueze,denezearddar
+San Diego Chargers,Jason Verrett,CB,Texas Christian,,2014_25,25,DB,No,Verrett,Jason,versonettjas
+Philadelphia Eagles,Marcus Smith,DE,Louisville,0.8684,2014_26,26,DL,Yes,Smith,Marcus,smicusithmar
+Arizona Cardinals,Deone Bucannon,SS,Washington State,0.8733,2014_27,27,DB,Yes,Bucannon,Deone,buconenondeo
+Carolina Panthers,Kelvin Benjamin,WR,Florida State,0.9377,2014_28,28,WR,Yes,Benjamin,Kelvin,benvinminkel
+New England Patriots,Dominique Easley,DT,Florida,0.9978,2014_29,29,DL,Yes,Easley,Dominique,easqueleydom
+San Francisco 49ers,Jimmie Ward,SS,Northern Illinois,,2014_30,30,DB,No,Ward,Jimmie,warmieardjim
+Denver Broncos,Bradley Roby,CB,Ohio State,0.8653,2014_31,31,DB,Yes,Roby,Bradley,robleyobybra
+Minnesota Vikings,Teddy Bridgewater,QB,Louisville,0.9515,2014_32,32,QB,Yes,Bridgewater,Teddy,briddyterted
+Houston Texans,Xavier Su'a-Filo,G,UCLA,0.9774,2014_33,33,OL,Yes,Su'a-Filo,Xavier,su'ieriloxav
+Dallas Cowboys,Demarcus Lawrence,LB,Boise State,,2014_34,34,LB,No,Lawrence,Demarcus,lawcusncedem
+Cleveland Browns,Joel Bitonio,T,Nevada,,2014_35,35,OL,No,Bitonio,Joel,bitoelniojoe
+Oakland Raiders,Derek Carr,QB,Fresno State,0.8913,2014_36,36,QB,Yes,Carr,Derek,carrekarrder
+Atlanta Falcons,Ra'Shede Hageman,DT,Minnesota,0.8863,2014_37,37,DL,Yes,Hageman,Ra'Shede,hagedemanra'
+Tampa Bay Buccaneers,Austin Seferian-Jenkins,TE,Washington,0.9765,2014_38,38,TE,Yes,Seferian-Jenkins,Austin,seftininsaus
+Jacksonville Jaguars,Marqise Lee,WR,USC,0.975,2014_39,39,WR,Yes,Lee,Marqise,leeiseleemar
+Detroit Lions,Kyle Van Noy,OLB,Brigham Young,0.8998,2014_40,40,LB,Yes,Van Noy,Kyle,vanylenoykyl
+St. Louis Rams,Lamarcus Joyner,CB,Florida State,0.9941,2014_41,41,DB,Yes,Joyner,Lamarcus,joycusnerlam
+Philadelphia Eagles,Jordan Matthews,WR,Vanderbilt,,2014_42,42,WR,No,Matthews,Jordan,matdanewsjor
+New York Giants,Weston Richburg,C,Colorado State,,2014_43,43,OL,No,Richburg,Weston,rictonurgwes
+Buffalo Bills,Cyrus Kouandjio,T,Alabama,0.9994,2014_44,44,OL,Yes,Kouandjio,Cyrus,kourusjiocyr
+Seattle Seahawks,Paul Richardson,WR,Colorado,0.9063,2014_45,45,WR,Yes,Richardson,Paul,ricaulsonpau
+Pittsburgh Steelers,Stephon Tuitt,DT,Notre Dame,0.9824,2014_46,46,DL,Yes,Tuitt,Stephon,tuihonittste
+Washington Redskins,Trent Murphy,DE,Stanford,,2014_47,47,DL,No,Murphy,Trent,murentphytre
+Baltimore Ravens,Timmy Jernigan,DT,Florida State,0.9927,2014_48,48,DL,Yes,Jernigan,Timmy,jermmygantim
+New York Jets,Jace Amaro,TE,Texas Tech,0.9408,2014_49,49,TE,Yes,Amaro,Jace,amaacearojac
+San Diego Chargers,Jeremiah Attaochu,OLB,Georgia Tech,,2014_50,50,LB,No,Attaochu,Jeremiah,attiahchujer
+Chicago Bears,Ego Ferguson,DT,LSU,0.9651,2014_51,51,DL,Yes,Ferguson,Ego,feregosonego
+Arizona Cardinals,Troy Niklas,TE,Notre Dame,0.9187,2014_52,52,TE,Yes,Niklas,Troy,nikroylastro
+Green Bay Packers,Davante Adams,WR,Fresno State,,2014_53,53,WR,No,Adams,Davante,adanteamsdav
+Tennessee Titans,Bishop Sankey,RB,Washington,0.9028,2014_54,54,RB,Yes,Sankey,Bishop,sanhopkeybis
+Cincinnati Bengals,Jeremy Hill,RB,LSU,0.8994,2014_55,55,RB,Yes,Hill,Jeremy,hilemyilljer
+Denver Broncos,Cody Latimer,WR,Indiana,0.8487,2014_56,56,WR,Yes,Latimer,Cody,latodymercod
+San Francisco 49ers,Carlos Hyde,RB,Ohio State,0.9078,2014_57,57,RB,Yes,Hyde,Carlos,hydlosydecar
+New Orleans Saints,Stanley Jean-Baptiste,CB,Nebraska,,2014_58,58,DB,No,Jean-Baptiste,Stanley,jealeystesta
+Indianapolis Colts,Jack Mewhort,T,Ohio State,0.9384,2014_59,59,OL,Yes,Mewhort,Jack,mewackortjac
+Carolina Panthers,Kony Ealy,DE,Missouri,0.9156,2014_60,60,DL,Yes,Ealy,Kony,ealonyalykon
+Jacksonville Jaguars,Allen Robinson,WR,Penn State,,2014_61,61,WR,No,Robinson,Allen,roblensonall
+New England Patriots,Jimmy Garoppolo,QB,Eastern Illinois,,2014_62,62,QB,No,Garoppolo,Jimmy,garmmyolojim
+Miami Dolphins,Jarvis Landry,WR,LSU,0.9922,2014_63,63,WR,Yes,Landry,Jarvis,lanvisdryjar
+Seattle Seahawks,Justin Britt,T,Missouri,0.8776,2014_64,64,OL,Yes,Britt,Justin,britinittjus
+Houston Texans,C.J. Fiedorowicz,TE,Iowa,0.9694,2014_65,65,TE,Yes,Fiedorowicz,C.J.,fie.j.iczc.j
+Washington Redskins,Morgan Moses,T,Virginia,0.9597,2014_66,66,OL,Yes,Moses,Morgan,mosgansesmor
+Miami Dolphins,Billy Turner,T,North Dakota State,,2014_67,67,OL,No,Turner,Billy,turllynerbil
+Atlanta Falcons,Dezmen Southward,FS,Wisconsin,,2014_68,68,DB,No,Southward,Dezmen,soumenarddez
+Tampa Bay Buccaneers,Charles Sims,RB,West Virginia,,2014_69,69,RB,No,Sims,Charles,simlesimscha
+San Francisco 49ers,Marcus Martin,C,USC,0.8584,2014_70,70,OL,Yes,Martin,Marcus,marcustinmar
+Cleveland Browns,Christian Kirksey,OLB,Iowa,0.8556,2014_71,71,LB,Yes,Kirksey,Christian,kirianseychr
+Minnesota Vikings,Scott Crichton,DE,Oregon State,0.8556,2014_72,72,DL,Yes,Crichton,Scott,criotttonsco
+Buffalo Bills,Preston Brown,ILB,Louisville,0.8542,2014_73,73,LB,Yes,Brown,Preston,brotonownpre
+New York Giants,Jay Bromley,DT,Syracuse,,2014_74,74,DL,No,Bromley,Jay,brojayleyjay
+St. Louis Rams,Tre Mason,RB,Auburn,0.8954,2014_75,75,RB,Yes,Mason,Tre,mastresontre
+Detroit Lions,Travis Swanson,C,Arkansas,0.859,2014_76,76,OL,Yes,Swanson,Travis,swavissontra
+San Francisco 49ers,Chris Borland,ILB,Wisconsin,,2014_77,77,LB,No,Borland,Chris,borrisandchr
+Washington Redskins,Spencer Long,G,Nebraska,,2014_78,78,OL,No,Long,Spencer,loncerongspe
+Baltimore Ravens,Terrence Brooks,FS,Florida State,0.8795,2014_79,79,DB,Yes,Brooks,Terrence,bronceokster
+New York Jets,Dexter McDougle,CB,Maryland,0.8715,2014_80,80,DB,Yes,McDougle,Dexter,mcdtergledex
+Oakland Raiders,Gabe Jackson,G,Mississippi State,,2014_81,81,OL,No,Jackson,Gabe,jacabesongab
+Chicago Bears,Will Sutton,DT,Arizona State,,2014_82,82,DL,No,Sutton,Will,sutilltonwil
+Houston Texans,Louis Nix,DT,Notre Dame,,2014_83,83,DL,No,Nix,Louis,nixuisnixlou
+Arizona Cardinals,Kareem Martin,DE,North Carolina,0.8997,2014_84,84,DL,Yes,Martin,Kareem,mareemtinkar
+Green Bay Packers,Khyri Thornton,DT,Southern Mississippi,,2014_85,85,DL,No,Thornton,Khyri,thoyritonkhy
+Philadelphia Eagles,Josh Huff,WR,Oregon,0.9136,2014_86,86,WR,Yes,Huff,Josh,hufoshuffjos
+Kansas City Chiefs,Phillip Gaines,CB,Rice,,2014_87,87,DB,No,Gaines,Phillip,gailipnesphi
+Cincinnati Bengals,Will Clarke,DE,West Virginia,,2014_88,88,DL,No,Clarke,Will,claillrkewil
+San Diego Chargers,Chris Watt,G,Notre Dame,0.9783,2014_89,89,OL,Yes,Watt,Chris,watrisattchr
+Indianapolis Colts,Donte Moncrief,WR,Mississippi,0.9349,2014_90,90,WR,Yes,Moncrief,Donte,monnteiefdon
+Arizona Cardinals,John Brown,WR,Pittsburg State,0.8556,2014_91,91,WR,Yes,Brown,John,broohnownjoh
+Carolina Panthers,Trai Turner,G,LSU,0.8765,2014_92,92,OL,Yes,Turner,Trai,turrainertra
+Jacksonville Jaguars,Brandon Linder,G,Miami (Fla.),0.9386,2014_93,93,OL,Yes,Linder,Brandon,lindonderbra
+Cleveland Browns,Terrance West,RB,Towson,,2014_94,94,RB,No,West,Terrance,wesnceestter
+Denver Broncos,Michael Schofield,T,Michigan,0.9089,2014_95,95,OL,Yes,Schofield,Michael,schaeleldmic
+Minnesota Vikings,Jerick McKinnon,RB,Georgia Southern,,2014_96,96,RB,No,McKinnon,Jerick,mckicknonjer
+Pittsburgh Steelers,Dri Archer,RB,Kent State,,2014_97,97,RB,No,Archer,Dri,arcdriherdri
+Green Bay Packers,Richard Rodgers,TE,California,0.8515,2014_98,98,TE,Yes,Rodgers,Richard,rodardersric
+Baltimore Ravens,Crockett Gillmore,TE,Colorado State,,2014_99,99,TE,No,Gillmore,Crockett,gilettorecro
+San Francisco 49ers,Brandon Thomas,G,Clemson,0.903,2014_100,100,OL,Yes,Thomas,Brandon,thodonmasbra
+Philadelphia Eagles,Jaylen Watkins,CB,Florida,0.9802,2014_101,101,DB,Yes,Watkins,Jaylen,watleninsjay
+Washington Redskins,Bashaud Breeland,CB,Clemson,0.8774,2014_102,102,DB,Yes,Breeland,Bashaud,breaudandbas
+Atlanta Falcons,Devonta Freeman,RB,Florida State,0.949,2014_103,103,RB,Yes,Freeman,Devonta,frentamandev
+New York Jets,Jalen Saunders,WR,Oklahoma,,2014_104,104,WR,No,Saunders,Jalen,saulenersjal
+New England Patriots,Bryan Stork,C,Florida State,0.859,2014_105,105,OL,Yes,Stork,Bryan,stoyanorkbry
+San Francisco 49ers,Bruce Ellington,WR,South Carolina,0.9653,2014_106,106,WR,Yes,Ellington,Bruce,ellucetonbru
+Oakland Raiders,Justin Ellis,DT,Louisiana Tech,,2014_107,107,DL,No,Ellis,Justin,elltinlisjus
+Seattle Seahawks,Cassius Marsh,DE,UCLA,0.9441,2014_108,108,DL,Yes,Marsh,Cassius,mariusrshcas
+Buffalo Bills,Ross Cockrell,CB,Duke,,2014_109,109,DB,No,Cockrell,Ross,cocossellros
+St. Louis Rams,Maurice Alexander,SS,Utah State,,2014_110,110,DB,No,Alexander,Maurice,aleicedermau
+Cincinnati Bengals,Russell Bodine,G,North Carolina,,2014_111,111,OL,No,Bodine,Russell,bodellinerus
+Tennessee Titans,DaQuan Jones,DT,Penn State,0.8938,2014_112,112,DL,Yes,Jones,DaQuan,jonuannesdaq
+New York Giants,Andre Williams,RB,Boston College,0.8639,2014_113,113,RB,Yes,Williams,Andre,wildreamsand
+Jacksonville Jaguars,Aaron Colvin,CB,Oklahoma,0.8764,2014_114,114,DB,Yes,Colvin,Aaron,colronvinaar
+New York Jets,Shaq Evans,WR,UCLA,,2014_115,115,WR,No,Evans,Shaq,evahaqanssha
+Oakland Raiders,Keith McGill,CB,Utah,,2014_116,116,DB,No,McGill,Keith,mcgithillkei
+Chicago Bears,Ka'Deem Carey,RB,Arizona,0.8799,2014_117,117,RB,Yes,Carey,Ka'Deem,careemreyka'
+Pittsburgh Steelers,Martavis Bryant,WR,Clemson,0.943,2014_118,118,WR,Yes,Bryant,Martavis,bryvisantmar
+Dallas Cowboys,Anthony Hitchens,OLB,Iowa,,2014_119,119,LB,No,Hitchens,Anthony,hitonyensant
+Arizona Cardinals,Logan Thomas,QB,Virginia Tech,0.9742,2014_120,120,QB,Yes,Thomas,Logan,thoganmaslog
+Green Bay Packers,Carl Bradford,OLB,Arizona State,0.867,2014_121,121,LB,Yes,Bradford,Carl,braarlordcar
+Tennessee Titans,Marqueston Huff,DB,Wyoming,,2014_122,122,DB,No,Huff,Marqueston,huftonuffmar
+Seattle Seahawks,Kevin Norwood,WR,Alabama,0.9051,2014_123,123,WR,Yes,Norwood,Kevin,norvinoodkev
+Kansas City Chiefs,De'Anthony Thomas,RB,Oregon,0.9926,2014_124,124,RB,Yes,Thomas,De'Anthony,thoonymasde'
+Miami Dolphins,Walt Aikens,CB,Liberty,,2014_125,125,DB,No,Aikens,Walt,aikaltenswal
+New Orleans Saints,Khairi Fortt,OLB,California,0.9675,2014_126,126,LB,Yes,Fortt,Khairi,foririrttkha
+Cleveland Browns,Pierre Desir,CB,Lindenwood,,2014_127,127,DB,No,Desir,Pierre,desrresirpie
+Carolina Panthers,Tre Boston,SS,North Carolina,0.859,2014_128,128,DB,Yes,Boston,Tre,bostretontre
+San Francisco 49ers,Dontae Johnson,CB,North Carolina State,0.8764,2014_129,129,DB,Yes,Johnson,Dontae,johtaesondon
+New England Patriots,James White,RB,Wisconsin,0.8733,2014_130,130,RB,Yes,White,James,whimesitejam
+Chicago Bears,Brock Vereen,SS,Minnesota,0.859,2014_131,131,DB,Yes,Vereen,Brock,verockeenbro
+Seattle Seahawks,Kevin Pierre-Louis,OLB,Boston College,0.9101,2014_132,132,LB,Yes,Pierre-Louis,Kevin,pievinuiskev
+Detroit Lions,Nevin Lawson,CB,Utah State,,2014_133,133,DB,No,Lawson,Nevin,lawvinsonnev
+Baltimore Ravens,Brent Urban,DE,Virginia,,2014_134,134,DL,No,Urban,Brent,urbentbanbre
+Houston Texans,Tom Savage,QB,Pittsburgh,0.9532,2014_135,135,QB,Yes,Savage,Tom,savtomagetom
+Detroit Lions,Larry Webster,DE,Bloomsburg,,2014_136,136,DL,No,Webster,Larry,webrryterlar
+New York Jets,Dakota Dozier,T,Furman,,2014_137,137,OL,No,Dozier,Dakota,dozotaierdak
+Baltimore Ravens,Lorenzo Taliaferro,RB,Coastal Carolina,,2014_138,138,RB,No,Taliaferro,Lorenzo,talnzorrolor
+Atlanta Falcons,Prince Shembo,OLB,Notre Dame,0.8899,2014_139,139,LB,Yes,Shembo,Prince,shencembopri
+New England Patriots,Cameron Fleming,T,Stanford,0.8733,2014_140,140,OL,Yes,Fleming,Cameron,fleroningcam
+Kansas City Chiefs,Eric Fisher,OT,Central Michigan,,2013_1,1,OL,No,Fisher,Eric,fisrichereri
+Jacksonville Jaguars,Luke Joeckel,OT,Texas A&M,0.9726,2013_2,2,OL,Yes,Joeckel,Luke,joeukekelluk
+Miami Dolphins,Dion Jordan,DE,Oregon,0.9044,2013_3,3,DL,Yes,Jordan,Dion,joriondandio
+Philadelphia Eagles,Lane Johnson,OT,Oklahoma,,2013_4,4,OL,No,Johnson,Lane,johanesonlan
+Detroit Lions,Ezekiel Ansah,DE,Brigham Young,,2013_5,5,DL,No,Ansah,Ezekiel,ansielsaheze
+Cleveland Browns,Barkevious Mingo,OLB,LSU,0.9194,2013_6,6,LB,Yes,Mingo,Barkevious,minousngobar
+Arizona Cardinals,Jonathan Cooper,OG,North Carolina,0.8764,2013_7,7,OL,Yes,Cooper,Jonathan,coohanperjon
+St. Louis Rams,Tavon Austin,WR,West Virginia,0.9188,2013_8,8,WR,Yes,Austin,Tavon,ausvontintav
+New York Jets,Dee Milliner,CB,Alabama,0.9932,2013_9,9,DB,Yes,Milliner,Dee,mildeenerdee
+Tennessee Titans,Chance Warmack,OG,Alabama,0.8795,2013_10,10,OL,Yes,Warmack,Chance,warnceackcha
+San Diego Chargers,D.J. Fluker,OT,Alabama,0.9849,2013_11,11,OL,Yes,Fluker,D.J.,flu.j.kerd.j
+Oakland Raiders,D.J. Hayden,CB,Houston,,2013_12,12,DB,No,Hayden,D.J.,hay.j.dend.j
+New York Jets,Sheldon Richardson,DE,Missouri,0.9859,2013_13,13,DL,Yes,Richardson,Sheldon,ricdonsonshe
+Carolina Panthers,Star Lotulelei,DT,Utah,,2013_14,14,DL,No,Lotulelei,Star,lottarleista
+New Orleans Saints,Kenny Vaccaro,SS,Texas,0.9018,2013_15,15,DB,Yes,Vaccaro,Kenny,vacnnyaroken
+Buffalo Bills,EJ Manuel,QB,Florida State,0.9849,2013_16,16,QB,Yes,Manuel,EJ,manejuelej
+Pittsburgh Steelers,Jarvis Jones,OLB,Georgia,0.8767,2013_17,17,LB,Yes,Jones,Jarvis,jonvisnesjar
+San Francisco 49ers,Eric Reid,FS,LSU,0.9719,2013_18,18,DB,Yes,Reid,Eric,reiriceideri
+New York Giants,Justin Pugh,OT,Syracuse,,2013_19,19,OL,No,Pugh,Justin,pugtinughjus
+Chicago Bears,Kyle Long,OG,Oregon,,2013_20,20,OL,No,Long,Kyle,lonyleongkyl
+Cincinnati Bengals,Tyler Eifert,TE,Notre Dame,0.8684,2013_21,21,TE,Yes,Eifert,Tyler,eiflererttyl
+Atlanta Falcons,Desmond Trufant,CB,Washington,0.8528,2013_22,22,DB,Yes,Trufant,Desmond,truondantdes
+Minnesota Vikings,Sharrif Floyd,DT,Florida,0.997,2013_23,23,DL,Yes,Floyd,Sharrif,florifoydsha
+Indianapolis Colts,Bjoern Werner,OLB,Florida State,0.8789,2013_24,24,LB,Yes,Werner,Bjoern,werernnerbjo
+Minnesota Vikings,Xavier Rhodes,CB,Florida State,0.8622,2013_25,25,DB,Yes,Rhodes,Xavier,rhoierdesxav
+Green Bay Packers,Datone Jones,DE,UCLA,0.9118,2013_26,26,DL,Yes,Jones,Datone,jononenesdat
+Houston Texans,DeAndre Hopkins,WR,Clemson,0.9156,2013_27,27,WR,Yes,Hopkins,DeAndre,hopdreinsdea
+Denver Broncos,Sylvester Williams,DT,North Carolina,,2013_28,28,DL,No,Williams,Sylvester,wilteramssyl
+Minnesota Vikings,Cordarrelle Patterson,WR,Tennessee,,2013_29,29,WR,No,Patterson,Cordarrelle,patllesoncor
+St. Louis Rams,Alec Ogletree,OLB,Georgia,0.9889,2013_30,30,LB,Yes,Ogletree,Alec,ogllecreeale
+Dallas Cowboys,Travis Frederick,C,Wisconsin,,2013_31,31,OL,No,Frederick,Travis,frevisicktra
+Baltimore Ravens,Matt Elam,FS,Florida,0.9924,2013_32,32,DB,Yes,Elam,Matt,elaattlammat
+Jacksonville Jaguars,John Cyprien,SS,Florida International,,2013_33,33,DB,No,Cyprien,John,cypohnienjoh
+Tennessee Titans,Justin Hunter,WR,Tennessee,0.9829,2013_34,34,WR,Yes,Hunter,Justin,huntinterjus
+Philadelphia Eagles,Zach Ertz,TE,Stanford,0.909,2013_35,35,TE,Yes,Ertz,Zach,ertachrtzzac
+Detroit Lions,Darius Slay,CB,Mississippi State,,2013_36,36,DB,No,Slay,Darius,slaiuslaydar
+Cincinnati Bengals,Giovani Bernard,RB,North Carolina,0.9232,2013_37,37,RB,Yes,Bernard,Giovani,beraniardgio
+San Diego Chargers,Manti Te'o,ILB,Notre Dame,0.9977,2013_38,38,LB,Yes,Te'o,Manti,te'ntie'oman
+New York Jets,Geno Smith,QB,West Virginia,0.954,2013_39,39,QB,Yes,Smith,Geno,smienoithgen
+San Francisco 49ers,Cornellius Carradine,DE,Florida State,,2013_40,40,DL,No,Carradine,Cornellius,cariusinecor
+Buffalo Bills,Robert Woods,WR,USC,0.9987,2013_41,41,WR,Yes,Woods,Robert,wooertodsrob
+Oakland Raiders,Menelik Watson,OT,Florida State,,2013_42,42,OL,No,Watson,Menelik,watliksonmen
+Tampa Bay Buccaneers,Johnthan Banks,CB,Mississippi State,0.8715,2013_43,43,DB,Yes,Banks,Johnthan,banhannksjoh
+Carolina Panthers,Kawann Short,DT,Purdue,0.8556,2013_44,44,DL,Yes,Short,Kawann,shoannortkaw
+Arizona Cardinals,Kevin Minter,LB,LSU,0.9419,2013_45,45,LB,Yes,Minter,Kevin,minvinterkev
+Buffalo Bills,Kiko Alonso,MLB,Oregon,,2013_46,46,LB,No,Alonso,Kiko,aloikonsokik
+Dallas Cowboys,Gavin Escobar,TE,San Diego State,,2013_47,47,TE,No,Escobar,Gavin,escvinbargav
+Pittsburgh Steelers,Le'Veon Bell,RB,Michigan State,,2013_48,48,RB,No,Bell,Le'Veon,beleonellle'
+New York Giants,Johnathan Hankins,DT,Ohio State,0.8932,2013_49,49,DL,Yes,Hankins,Johnathan,hanhaninsjoh
+Chicago Bears,Jon Bostic,ILB,Florida,0.9717,2013_50,50,LB,Yes,Bostic,Jon,bosjonticjon
+Washington Redskins,David Amerson,FS,North Carolina State,0.9021,2013_51,51,DB,Yes,Amerson,David,amevidsondav
+New England Patriots,Jamie Collins,OLB,Southern Mississippi,0.8559,2013_52,52,LB,Yes,Collins,Jamie,colmieinsjam
+Cincinnati Bengals,Margus Hunt,DE,Southern Methodist,,2013_53,53,DL,No,Hunt,Margus,hungusuntmar
+Miami Dolphins,Jamar Taylor,CB,Boise State,0.867,2013_54,54,DB,Yes,Taylor,Jamar,taymarlorjam
+San Francisco 49ers,Vance McDonald,TE,Rice,,2013_55,55,TE,No,McDonald,Vance,mcdncealdvan
+Baltimore Ravens,Arthur Brown,ILB,Kansas State,0.996,2013_56,56,LB,Yes,Brown,Arthur,brohurownart
+Houston Texans,D.J. Swearinger,SS,South Carolina,0.8826,2013_57,57,DB,Yes,Swearinger,D.J.,swe.j.gerd.j
+Denver Broncos,Montee Ball,RB,Wisconsin,0.8844,2013_58,58,RB,Yes,Ball,Montee,balteeallmon
+New England Patriots,Aaron Dobson,WR,Marshall,,2013_59,59,WR,No,Dobson,Aaron,dobronsonaar
+Atlanta Falcons,Robert Alford,CB,Southeastern Louisiana,,2013_60,60,DB,No,Alford,Robert,alfertordrob
+Green Bay Packers,Eddie Lacy,RB,Alabama,0.94,2013_61,61,RB,Yes,Lacy,Eddie,lacdieacyedd
+Seattle Seahawks,Christine Michael,RB,Texas A&M,0.9887,2013_62,62,RB,Yes,Michael,Christine,micineaelchr
+Kansas City Chiefs,Travis Kelce,TE,Cincinnati,,2013_63,63,TE,No,Kelce,Travis,kelvislcetra
+Jacksonville Jaguars,Dwayne Gratz,CB,Connecticut,0.8576,2013_64,64,DB,Yes,Gratz,Dwayne,grayneatzdwa
+Detroit Lions,Larry Warford,OG,Kentucky,0.8622,2013_65,65,OL,Yes,Warford,Larry,warrryordlar
+Oakland Raiders,Sio Moore,OLB,Connecticut,,2013_66,66,LB,No,Moore,Sio,moosiooresio
+Philadelphia Eagles,Bennie Logan,NT,LSU,0.859,2013_67,67,DL,Yes,Logan,Bennie,lognieganben
+Cleveland Browns,Leon McFadden,CB,San Diego State,,2013_68,68,DB,No,McFadden,Leon,mcfeondenleo
+Arizona Cardinals,Tyrann Mathieu,FS,LSU,0.9132,2013_69,69,DB,Yes,Mathieu,Tyrann,matannieutyr
+Tennessee Titans,Blidi Wreh-Wilson,CB,Connecticut,,2013_70,70,DB,No,Wreh-Wilson,Blidi,wreidisonbli
+St. Louis Rams,T.J. McDonald,SS,USC,0.9838,2013_71,71,DB,Yes,McDonald,T.J.,mcd.j.aldt.j
+New York Jets,Brian Winters,OG,Kent State,,2013_72,72,OL,No,Winters,Brian,winianersbri
+Tampa Bay Buccaneers,Mike Glennon,QB,North Carolina State,0.9773,2013_73,73,QB,Yes,Glennon,Mike,gleikenonmik
+Dallas Cowboys,Terrance Williams,WR,Baylor,,2013_74,74,WR,No,Williams,Terrance,wilnceamster
+New Orleans Saints,Terron Armstead,OT,Arkansas-Pine Bluff,,2013_75,75,OL,No,Armstead,Terron,armroneadter
+San Diego Chargers,Keenan Allen,WR,California,0.9949,2013_76,76,WR,Yes,Allen,Keenan,allnanlenkee
+Miami Dolphins,Dallas Thomas,OT,Tennessee,0.8556,2013_77,77,OL,Yes,Thomas,Dallas,tholasmasdal
+Buffalo Bills,Marquise Goodwin,WR,Texas,0.8826,2013_78,78,WR,Yes,Goodwin,Marquise,gooisewinmar
+Pittsburgh Steelers,Markus Wheaton,WR,Oregon State,0.8733,2013_79,79,WR,Yes,Wheaton,Markus,whekustonmar
+Dallas Cowboys,J.J. Wilcox,SS,Georgia Southern,,2013_80,80,DB,No,Wilcox,J.J.,wil.j.coxj.j
+New York Giants,Damontre Moore,DE,Texas A&M,0.8764,2013_81,81,DL,Yes,Moore,Damontre,mootreoredam
+New Orleans Saints,John Jenkins,NT,Georgia,,2013_82,82,DL,No,Jenkins,John,jenohninsjoh
+New England Patriots,Logan Ryan,CB,Rutgers,0.8938,2013_83,83,DB,Yes,Ryan,Logan,ryaganyanlog
+Cincinnati Bengals,Shawn Williams,SS,Georgia,0.8795,2013_84,84,DB,Yes,Williams,Shawn,wilawnamssha
+Washington Redskins,Jordan Reed,TE,Florida,0.9266,2013_85,85,TE,Yes,Reed,Jordan,reedaneedjor
+Indianapolis Colts,Hugh Thornton,OG,Illinois,0.8639,2013_86,86,OL,Yes,Thornton,Hugh,thoughtonhug
+Seattle Seahawks,Jordan Hill,DT,Penn State,,2013_87,87,DL,No,Hill,Jordan,hildanilljor
+San Francisco 49ers,Corey Lemonier,LB,Auburn,0.9731,2013_88,88,LB,Yes,Lemonier,Corey,lemreyiercor
+Houston Texans,Brennan Williams,OT,North Carolina,0.92,2013_89,89,OL,Yes,Williams,Brennan,wilnanamsbre
+Denver Broncos,Kayvon Webster,CB,South Florida,0.8795,2013_90,90,DB,Yes,Webster,Kayvon,webvonterkay
+New England Patriots,Duron Harmon,SS,Rutgers,0.8653,2013_91,91,DB,Yes,Harmon,Duron,harronmondur
+St. Louis Rams,Stedman Bailey,WR,West Virginia,0.8875,2013_92,92,WR,Yes,Bailey,Stedman,baimanleyste
+Miami Dolphins,Will Davis,CB,Utah State,0.8561,2013_93,93,DB,Yes,Davis,Will,davillviswil
+Baltimore Ravens,Brandon Williams,DT,Missouri Southern State,0.9927,2013_94,94,DL,Yes,Williams,Brandon,wildonamsbra
+Houston Texans,Sam Montgomery,LB,LSU,0.9745,2013_95,95,LB,Yes,Montgomery,Sam,monsamerysam
+Kansas City Chiefs,Knile Davis,RB,Arkansas,0.9127,2013_96,96,RB,Yes,Davis,Knile,davileviskni
+Tennessee Titans,Zaviar Gooden,OLB,Missouri,0.8778,2013_97,97,LB,Yes,Gooden,Zaviar,gooiardenzav
+Philadelphia Eagles,Matt Barkley,QB,USC,0.9993,2013_98,98,QB,Yes,Barkley,Matt,barattleymat
+Kansas City Chiefs,Nico Johnson,ILB,Alabama,0.9905,2013_99,99,LB,Yes,Johnson,Nico,johicosonnic
+Tampa Bay Buccaneers,Akeem Spence,DT,Illinois,0.8542,2013_100,100,DL,Yes,Spence,Akeem,speeemnceake
+Jacksonville Jaguars,Ace Sanders,WR,South Carolina,0.8688,2013_101,101,WR,Yes,Sanders,Ace,sanaceersace
+New England Patriots,Josh Boyce,WR,Texas Christian,0.8604,2013_102,102,WR,Yes,Boyce,Josh,boyoshycejos
+Arizona Cardinals,Alex Okafor,LB,Texas,0.98,2013_103,103,LB,Yes,Okafor,Alex,okalexforale
+Miami Dolphins,Jelani Jenkins,LB,Florida,0.9971,2013_104,104,LB,Yes,Jenkins,Jelani,jenaniinsjel
+Buffalo Bills,Duke Williams,FS,Nevada,,2013_105,105,DB,No,Williams,Duke,wilukeamsduk
+Miami Dolphins,Dion Sims,TE,Michigan State,0.8906,2013_106,106,TE,Yes,Sims,Dion,simionimsdio
+Tennessee Titans,Brian Schwenke,C,California,0.8715,2013_107,107,OL,Yes,Schwenke,Brian,schiannkebri
+Carolina Panthers,Edmund Kugbila,G,Valdosta State,,2013_108,108,OL,No,Kugbila,Edmund,kugundilaedm
+Green Bay Packers,David Bakhtiari,OT,Colorado,,2013_109,109,OL,No,Bakhtiari,David,bakvidaridav
+New York Giants,Ryan Nassib,QB,Syracuse,,2013_110,110,QB,No,Nassib,Ryan,nasyansibrya
+Pittsburgh Steelers,Shamarko Thomas,SS,Syracuse,,2013_111,111,DB,No,Thomas,Shamarko,thorkomassha
+Oakland Raiders,Tyler Wilson,QB,Arkansas,0.9366,2013_112,112,QB,Yes,Wilson,Tyler,willersontyl
+St. Louis Rams,Barrett Jones,OG,Alabama,0.9269,2013_113,113,OL,Yes,Jones,Barrett,jonettnesbar
+Dallas Cowboys,B.W. Webb,CB,William & Mary,,2013_114,114,DB,No,Webb,B.W.,web.w.ebbb.w
+Pittsburgh Steelers,Landry Jones,QB,Oklahoma,0.9497,2013_115,115,QB,Yes,Jones,Landry,jondryneslan
+Arizona Cardinals,Earl Watford,OG,James Madison,,2013_116,116,OL,No,Watford,Earl,watarlordear
+Chicago Bears,Khaseem Greene,OLB,Rutgers,,2013_117,117,LB,No,Greene,Khaseem,greeemenekha
+Cincinnati Bengals,Sean Porter,OLB,Texas A&M,0.8556,2013_118,118,LB,Yes,Porter,Sean,poreantersea
+Washington Redskins,Phillip Thomas,SS,Fresno State,0.8556,2013_119,119,DB,Yes,Thomas,Phillip,tholipmasphi
+Minnesota Vikings,Gerald Hodges,OLB,Penn State,0.9207,2013_120,120,LB,Yes,Hodges,Gerald,hodaldgesger
+Indianapolis Colts,Khaled Holmes,C,USC,0.9457,2013_121,121,OL,Yes,Holmes,Khaled,holledmeskha
+Green Bay Packers,JC Tretter,T,Cornell,,2013_122,122,OL,No,Tretter,JC,trejcterjc
+Seattle Seahawks,Chris Harper,WR,Kansas State,0.9366,2013_123,123,WR,Yes,Harper,Chris,harrisperchr
+Houston Texans,Trevardo Williams,OLB,Connecticut,,2013_124,124,LB,No,Williams,Trevardo,wilrdoamstre
+Green Bay Packers,Johnathan Franklin,RB,UCLA,0.8943,2013_125,125,RB,Yes,Franklin,Johnathan,frahanlinjoh
+Tampa Bay Buccaneers,William Gholston,DE,Michigan State,0.9899,2013_126,126,DL,Yes,Gholston,William,ghoiamtonwil
+Atlanta Falcons,Malliciah Goodman,DE,Clemson,0.97,2013_127,127,DL,Yes,Goodman,Malliciah,gooiahmanmal
+San Francisco 49ers,Quinton Patton,WR,Louisiana Tech,,2013_128,128,WR,No,Patton,Quinton,pattontonqui
+Baltimore Ravens,John Simon,LB,Ohio State,0.9183,2013_129,129,LB,Yes,Simon,John,simohnmonjoh
+Baltimore Ravens,Kyle Juszczyk,RB,Harvard,,2013_130,130,RB,No,Juszczyk,Kyle,jusylezykkyl
+San Francisco 49ers,Marcus Lattimore,RB,South Carolina,0.9953,2013_131,131,RB,Yes,Lattimore,Marcus,latcusoremar
+Detroit Lions,Devin Taylor,DE,South Carolina,0.8333,2013_132,132,DL,Yes,Taylor,Devin,tayvinlordev
+Atlanta Falcons,Levine Toilolo,TE,Stanford,0.9117,2013_133,133,TE,Yes,Toilolo,Levine,toiineololev
+Indianapolis Colts,Andrew Luck,QB,Stanford,0.9782,2012_1,1,QB,Yes,Luck,Andrew,lucrewuckand
+Washington Redskins,Robert Griffin,QB,Baylor,,2012_2,2,QB,No,Griffin,Robert,griertfinrob
+Cleveland Browns,Trent Richardson,RB,Alabama,0.9972,2012_3,3,RB,Yes,Richardson,Trent,ricentsontre
+Minnesota Vikings,Matt Kalil,T,USC,0.9892,2012_4,4,OL,Yes,Kalil,Matt,kalattlilmat
+Jacksonville Jaguars,Justin Blackmon,WR,Oklahoma State,0.8528,2012_5,5,WR,Yes,Blackmon,Justin,blatinmonjus
+Dallas Cowboys,Morris Claiborne,CB,LSU,0.8715,2012_6,6,DB,Yes,Claiborne,Morris,clarisrnemor
+Tampa Bay Buccaneers,Mark Barron,DB,Alabama,0.9665,2012_7,7,DB,Yes,Barron,Mark,bararkronmar
+Miami Dolphins,Ryan Tannehill,QB,Texas A&M,0.851,2012_8,8,QB,Yes,Tannehill,Ryan,tanyanillrya
+Carolina Panthers,Luke Kuechly,LB,Boston College,0.8684,2012_9,9,LB,Yes,Kuechly,Luke,kueukehlyluk
+Buffalo Bills,Stephon Gilmore,CB,South Carolina,0.9812,2012_10,10,DB,Yes,Gilmore,Stephon,gilhonoreste
+Kansas City Chiefs,Dontari Poe,NT,Memphis,,2012_11,11,DL,No,Poe,Dontari,poearipoedon
+Philadelphia Eagles,Fletcher Cox,DT,Mississippi State,0.9254,2012_12,12,DL,Yes,Cox,Fletcher,coxhercoxfle
+Arizona Cardinals,Michael Floyd,WR,Notre Dame,0.9914,2012_13,13,WR,Yes,Floyd,Michael,floaeloydmic
+St. Louis Rams,Michael Brockers,DT,LSU,0.9169,2012_14,14,DL,Yes,Brockers,Michael,broaelersmic
+Seattle Seahawks,Bruce Irvin,DE,West Virginia,,2012_15,15,DL,No,Irvin,Bruce,irvucevinbru
+New York Jets,Quinton Coples,DE,North Carolina,0.9131,2012_16,16,DL,Yes,Coples,Quinton,coptonlesqui
+Cincinnati Bengals,Dre Kirkpatrick,CB,Alabama,0.9918,2012_17,17,DB,Yes,Kirkpatrick,Dre,kirdreickdre
+San Diego Chargers,Melvin Ingram,LB,South Carolina,0.8875,2012_18,18,LB,Yes,Ingram,Melvin,ingvinrammel
+Chicago Bears,Shea McClellin,DE,Boise State,,2012_19,19,DL,No,McClellin,Shea,mcchealinshe
+Tennessee Titans,Kendall Wright,WR,Baylor,0.9082,2012_20,20,WR,Yes,Wright,Kendall,wriallghtken
+New England Patriots,Chandler Jones,DE,Syracuse,0.8478,2012_21,21,DL,Yes,Jones,Chandler,jonlernescha
+Cleveland Browns,Brandon Weeden,QB,Oklahoma State,,2012_22,22,QB,No,Weeden,Brandon,weedondenbra
+Detroit Lions,Riley Reiff,T,Iowa,0.8639,2012_23,23,OL,Yes,Reiff,Riley,reileyiffril
+Pittsburgh Steelers,David DeCastro,G,Stanford,0.8847,2012_24,24,OL,Yes,DeCastro,David,decvidtrodav
+New England Patriots,Dont'a Hightower,LB,Alabama,0.8938,2012_25,25,LB,Yes,Hightower,Dont'a,higt'awerdon
+Houston Texans,Whitney Mercilus,LB,Illinois,0.8542,2012_26,26,LB,Yes,Mercilus,Whitney,merneyluswhi
+Cincinnati Bengals,Kevin Zeitler,G,Wisconsin,0.8556,2012_27,27,OL,Yes,Zeitler,Kevin,zeivinlerkev
+Green Bay Packers,Nick Perry,LB,USC,0.9713,2012_28,28,LB,Yes,Perry,Nick,perickrrynic
+Minnesota Vikings,Harrison Smith,DB,Notre Dame,0.8875,2012_29,29,DB,Yes,Smith,Harrison,smisonithhar
+San Francisco 49ers,A.J. Jenkins,WR,Illinois,0.8916,2012_30,30,WR,Yes,Jenkins,A.J.,jen.j.insa.j
+Tampa Bay Buccaneers,Doug Martin,RB,Boise State,,2012_31,31,RB,No,Martin,Doug,marougtindou
+New York Giants,David Wilson,RB,Virginia Tech,0.9585,2012_32,32,RB,Yes,Wilson,David,wilvidsondav
+St. Louis Rams,Brian Quick,WR,Appalachian State,,2012_33,33,WR,No,Quick,Brian,quiianickbri
+Indianapolis Colts,Coby Fleener,TE,Stanford,0.8333,2012_34,34,TE,Yes,Fleener,Coby,fleobynercob
+Baltimore Ravens,Courtney Upshaw,LB,Alabama,0.95,2012_35,35,LB,Yes,Upshaw,Courtney,upsneyhawcou
+Denver Broncos,Derek Wolfe,DT,Cincinnati,,2012_36,36,DL,No,Wolfe,Derek,wolreklfeder
+Cleveland Browns,Mitchell Schwartz,T,California,0.8576,2012_37,37,OL,Yes,Schwartz,Mitchell,schellrtzmit
+Jacksonville Jaguars,Andre Branch,DE,Clemson,,2012_38,38,DL,No,Branch,Andre,bradrenchand
+St. Louis Rams,Janoris Jenkins,CB,North Alabama,0.9744,2012_39,39,DB,Yes,Jenkins,Janoris,jenrisinsjan
+Carolina Panthers,Amini Silatolu,G,Midwestern State,,2012_40,40,OL,No,Silatolu,Amini,silinioluami
+Buffalo Bills,Cordy Glenn,T,Georgia,0.9108,2012_41,41,OL,Yes,Glenn,Cordy,glerdyenncor
+Miami Dolphins,Jonathan Martin,T,Stanford,0.8764,2012_42,42,OL,Yes,Martin,Jonathan,marhantinjon
+New York Jets,Stephen Hill,WR,Georgia Tech,0.8782,2012_43,43,WR,Yes,Hill,Stephen,hilhenillste
+Kansas City Chiefs,Jeff Allen,T,Illinois,0.8778,2012_44,44,OL,Yes,Allen,Jeff,allefflenjef
+Chicago Bears,Alshon Jeffery,WR,South Carolina,0.9487,2012_45,45,WR,Yes,Jeffery,Alshon,jefhoneryals
+Philadelphia Eagles,Mychal Kendricks,LB,California,0.8559,2012_46,46,LB,Yes,Kendricks,Mychal,kenhalcksmyc
+Seattle Seahawks,Bobby Wagner,LB,Utah State,,2012_47,47,LB,No,Wagner,Bobby,wagbbynerbob
+New England Patriots,Tavon Wilson,FS,Illinois,0.8542,2012_48,48,DB,Yes,Wilson,Tavon,wilvonsontav
+San Diego Chargers,Kendall Reyes,DE,Connecticut,,2012_49,49,DL,No,Reyes,Kendall,reyallyesken
+St. Louis Rams,Isaiah Pead,RB,Cincinnati,,2012_50,50,RB,No,Pead,Isaiah,peaiaheadisa
+Green Bay Packers,Jerel Worthy,DE,Michigan State,,2012_51,51,DL,No,Worthy,Jerel,worrelthyjer
+Tennessee Titans,Zach Brown,LB,North Carolina,,2012_52,52,LB,No,Brown,Zach,broachownzac
+Cincinnati Bengals,Devon Still,DT,Penn State,0.9382,2012_53,53,DL,Yes,Still,Devon,stivonilldev
+Detroit Lions,Ryan Broyles,WR,Oklahoma,0.8844,2012_54,54,WR,Yes,Broyles,Ryan,broyanlesrya
+Atlanta Falcons,Peter Konz,G,Wisconsin,0.8781,2012_55,55,OL,Yes,Konz,Peter,konteronzpet
+Pittsburgh Steelers,Mike Adams,T,Ohio State,0.9887,2012_56,56,OL,Yes,Adams,Mike,adaikeamsmik
+Denver Broncos,Brock Osweiler,QB,Arizona State,0.8528,2012_57,57,QB,Yes,Osweiler,Brock,oswocklerbro
+Tampa Bay Buccaneers,Lavonte David,LB,Nebraska,,2012_58,58,LB,No,David,Lavonte,davntevidlav
+Philadelphia Eagles,Vinny Curry,DE,Marshall,,2012_59,59,DL,No,Curry,Vinny,curnnyrryvin
+Baltimore Ravens,Kelechi Osemele,T,Iowa State,,2012_60,60,OL,No,Osemele,Kelechi,osechielekel
+San Francisco 49ers,LaMichael James,RB,Oregon,,2012_61,61,RB,No,James,LaMichael,jamaelmeslam
+Green Bay Packers,Casey Hayward,CB,Vanderbilt,0.8333,2012_62,62,DB,Yes,Hayward,Casey,hayseyardcas
+New York Giants,Rueben Randle,WR,LSU,0.9967,2012_63,63,WR,Yes,Randle,Rueben,ranbendlerue
+Indianapolis Colts,Dwayne Allen,TE,Clemson,0.9381,2012_64,64,TE,Yes,Allen,Dwayne,allynelendwa
+St. Louis Rams,Trumaine Johnson,CB,Montana,,2012_65,65,DB,No,Johnson,Trumaine,johinesontru
+Minnesota Vikings,Josh Robinson,CB,Central Florida,0.8906,2012_66,66,DB,Yes,Robinson,Josh,roboshsonjos
+Denver Broncos,Ronnie Hillman,RB,San Diego State,,2012_67,67,RB,No,Hillman,Ronnie,hilniemanron
+Houston Texans,DeVier Posey,WR,Ohio State,0.9769,2012_68,68,WR,Yes,Posey,DeVier,posierseydev
+Buffalo Bills,T.J. Graham,WR,North Carolina State,0.8431,2012_69,69,WR,Yes,Graham,T.J.,gra.j.hamt.j
+Jacksonville Jaguars,Bryan Anger,P,California,,2012_70,70,P,No,Anger,Bryan,angyangerbry
+Washington Redskins,Josh Leribeus,G,Southern Methodist,0.8333,2012_71,71,OL,Yes,Leribeus,Josh,lerosheusjos
+Miami Dolphins,Olivier Vernon,DE,Miami (Fla.),0.9214,2012_72,72,DL,Yes,Vernon,Olivier,veriernonoli
+San Diego Chargers,Brandon Taylor,SS,LSU,0.9249,2012_73,73,DB,Yes,Taylor,Brandon,taydonlorbra
+Kansas City Chiefs,Donald Stephenson,T,Oklahoma,0.8701,2012_74,74,OL,Yes,Stephenson,Donald,stealdsondon
+Seattle Seahawks,Russell Wilson,QB,Wisconsin,,2012_75,75,QB,No,Wilson,Russell,wilellsonrus
+Houston Texans,Brandon Brooks,G,Miami (Ohio),0.8556,2012_76,76,OL,Yes,Brooks,Brandon,brodonoksbra
+New York Jets,Demario Davis,LB,Arkansas State,,2012_77,77,LB,No,Davis,Demario,davriovisdem
+Miami Dolphins,Michael Egnew,TE,Missouri,,2012_78,78,TE,No,Egnew,Michael,egnaelnewmic
+Chicago Bears,Brandon Hardin,FS,Oregon State,,2012_79,79,DB,No,Hardin,Brandon,hardondinbra
+Arizona Cardinals,Jamell Fleming,CB,Oklahoma,0.8844,2012_80,80,DB,Yes,Fleming,Jamell,fleellingjam
+Dallas Cowboys,Tyrone Crawford,DE,Boise State,,2012_81,81,DL,No,Crawford,Tyrone,craoneordtyr
+Tennessee Titans,Mike Martin,DT,Michigan,0.9107,2012_82,82,DL,Yes,Martin,Mike,mariketinmik
+Cincinnati Bengals,Mohamed Sanu,WR,Rutgers,0.8604,2012_83,83,WR,Yes,Sanu,Mohamed,sanmedanumoh
+Baltimore Ravens,Bernard Pierce,RB,Temple,,2012_84,84,RB,No,Pierce,Bernard,pieardrceber
+Detroit Lions,Dwight Bentley,CB,Louisiana-Lafayette,,2012_85,85,DB,No,Bentley,Dwight,benghtleydwi
+Pittsburgh Steelers,Sean Spence,LB,Miami (Fla.),0.9694,2012_86,86,LB,Yes,Spence,Sean,speeanncesea
+Cleveland Browns,John Hughes,DT,Cincinnati,,2012_87,87,DL,No,Hughes,John,hugohnhesjoh
+Philadelphia Eagles,Nick Foles,QB,Arizona,0.851,2012_88,88,QB,Yes,Foles,Nick,folicklesnic
+New Orleans Saints,Akiem Hicks,DT,Regina (Canada),,2012_89,89,DL,No,Hicks,Akiem,hiciemcksaki
+New England Patriots,Jake Bequette,DE,Arkansas,0.8333,2012_90,90,DL,Yes,Bequette,Jake,beqakettejak
+Atlanta Falcons,Lamar Holmes,T,Southern Mississippi,,2012_91,91,OL,No,Holmes,Lamar,holmarmeslam
+Indianapolis Colts,T.Y. Hilton,WR,Florida International,,2012_92,92,WR,No,Hilton,T.Y.,hil.y.tont.y
+Cincinnati Bengals,Brandon Thompson,DT,Clemson,0.9713,2012_93,93,DL,Yes,Thompson,Brandon,thodonsonbra
+New York Giants,Jayron Hosley,CB,Virginia Tech,0.9129,2012_94,94,DB,Yes,Hosley,Jayron,hosronleyjay
+Oakland Raiders,Tony Bergstrom,G,Utah,0.8556,2012_95,95,OL,Yes,Bergstrom,Tony,beronyromton
+St. Louis Rams,Chris Givens,WR,Wake Forest,,2012_96,96,WR,No,Givens,Chris,givrisenschr
+Miami Dolphins,Lamar Miller,RB,Miami (Fla.),0.9677,2012_97,97,RB,Yes,Miller,Lamar,milmarlerlam
+Baltimore Ravens,Gino Gradkowski,G,Delaware,0.8701,2012_98,98,OL,Yes,Gradkowski,Gino,grainoskigin
+Houston Texans,Ben Jones,C,Georgia,0.9156,2012_99,99,OL,Yes,Jones,Ben,jonbennesben
+Cleveland Browns,Travis Benjamin,WR,Miami (Fla.),0.9259,2012_100,100,WR,Yes,Benjamin,Travis,benvismintra
+Denver Broncos,Omar Bolden,CB,Arizona State,0.9,2012_101,101,DB,Yes,Bolden,Omar,bolmardenoma
+Washington Redskins,Kirk Cousins,QB,Michigan State,,2012_102,102,QB,No,Cousins,Kirk,couirkinskir
+Carolina Panthers,Frank Alexander,DE,Oklahoma,0.8844,2012_103,103,DL,Yes,Alexander,Frank,aleankderfra
+Carolina Panthers,Joe Adams,WR,Arkansas,0.9302,2012_104,104,WR,Yes,Adams,Joe,adajoeamsjoe
+Buffalo Bills,Nigel Bradham,LB,Florida State,0.9893,2012_105,105,LB,Yes,Bradham,Nigel,bragelhamnig
+Seattle Seahawks,Robert Turbin,RB,Utah State,,2012_106,106,RB,No,Turbin,Robert,turertbinrob
+Kansas City Chiefs,Devon Wylie,WR,Fresno State,,2012_107,107,WR,No,Wylie,Devon,wylvonliedev
+Denver Broncos,Philip Blake,C,Baylor,,2012_108,108,OL,No,Blake,Philip,blalipakephi
+Pittsburgh Steelers,Alameda Ta'amu,DT,Washington,0.9036,2012_109,109,DL,Yes,Ta'amu,Alameda,ta'edaamuala
+San Diego Chargers,Ladarius Green,TE,Louisiana-Lafayette,,2012_110,110,TE,No,Green,Ladarius,greiuseenlad
+Chicago Bears,Evan Rodriguez,TE,Temple,0.8733,2012_111,111,TE,Yes,Rodriguez,Evan,rodvanuezeva
+Arizona Cardinals,Bobby Massie,T,Mississippi,0.9281,2012_112,112,OL,Yes,Massie,Bobby,masbbysiebob
+Dallas Cowboys,Kyle Wilber,DE,Wake Forest,,2012_113,113,DL,No,Wilber,Kyle,wilyleberkyl
+Seattle Seahawks,Jaye Howard,DT,Florida,0.9375,2012_114,114,DL,Yes,Howard,Jaye,howayeardjay
+Tennessee Titans,Coty Sensabaugh,CB,Clemson,,2012_115,115,DB,No,Sensabaugh,Coty,senotyughcot
+Cincinnati Bengals,Orson Charles,TE,Georgia,0.9464,2012_116,116,TE,Yes,Charles,Orson,chasonlesors
+San Francisco 49ers,Joe Looney,G,Wake Forest,0.8608,2012_117,117,OL,Yes,Looney,Joe,loojoeneyjoe
+Minnesota Vikings,Jarius Wright,WR,Arkansas,0.8995,2012_118,118,WR,Yes,Wright,Jarius,wriiusghtjar
+Washington Redskins,Keenan Robinson,LB,Texas,0.97,2012_119,119,LB,Yes,Robinson,Keenan,robnansonkee
+Cleveland Browns,James-Michael Johnson,LB,Nevada-Reno,,2012_120,120,LB,No,Johnson,James-Michael,johaelsonjam
+Houston Texans,Keshawn Martin,WR,Michigan State,0.8556,2012_121,121,WR,Yes,Martin,Keshawn,marawntinkes
+New Orleans Saints,Nick Toon,WR,Wisconsin,0.9,2012_122,122,WR,Yes,Toon,Nick,tooickoonnic
+Philadelphia Eagles,Brandon Boykin,CB,Georgia,0.902,2012_123,123,DB,Yes,Boykin,Brandon,boydonkinbra
+Buffalo Bills,Ron Brooks,CB,LSU,0.927,2012_124,124,DB,Yes,Brooks,Ron,broronoksron
+Detroit Lions,Ronnell Lewis,DE,Oklahoma,0.9797,2012_125,125,DL,Yes,Lewis,Ronnell,lewellwisron
+Houston Texans,Jared Crick,DE,Nebraska,0.8497,2012_126,126,DL,Yes,Crick,Jared,criredickjar
+New York Giants,Adrien Robinson,TE,Cincinnati,0.851,2012_127,127,TE,Yes,Robinson,Adrien,robiensonadr
+Minnesota Vikings,Rhett Ellison,TE,USC,0.8701,2012_128,128,TE,Yes,Ellison,Rhett,ellettsonrhe
+Oakland Raiders,Miles Burris,LB,San Diego State,0.8479,2012_129,129,LB,Yes,Burris,Miles,burlesrismil
+Baltimore Ravens,Christian Thompson,FS,South Carolina State,0.8684,2012_130,130,DB,Yes,Thompson,Christian,thoiansonchr
+New York Giants,Brandon Mosley,T,Auburn,,2012_131,131,OL,No,Mosley,Brandon,mosdonleybra
+Green Bay Packers,Mike Daniels,DE,Iowa,,2012_132,132,DL,No,Daniels,Mike,danikeelsmik
+Green Bay Packers,Jerron McMillian,SS,Maine,,2012_133,133,DB,No,McMillian,Jerron,mcmronianjer
+Minnesota Vikings,Greg Childs,WR,Arkansas,0.8684,2012_134,134,WR,Yes,Childs,Greg,chiregldsgre
+Dallas Cowboys,Matt Johnson,SS,Eastern Washington,,2012_135,135,DB,No,Johnson,Matt,johattsonmat
